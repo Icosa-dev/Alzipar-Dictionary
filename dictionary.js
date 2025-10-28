@@ -9,7 +9,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "First person pronoun",
-                "example": "Kitab mir yamuhifa ",
+                "example": "Kitab mir yumhafa",
                 "gloss": "I look (on) human that.",
                 "exampleTranslation": "I have a book"
             }
@@ -23,7 +23,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Second person pronoun",
-                "example": "Kitab tu yamuhifa ",
+                "example": "Kitab tu yumhafa",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "You have a book"
             }
@@ -37,7 +37,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Third person pronoun, gender neutral",
-                "example": "Kitab tal yamuhifa ",
+                "example": "Kitab tal yumhafa",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "They have a book"
             }
@@ -51,7 +51,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Third person pronoun, masculine",
-                "example": "Kitab mal yamuhifa ",
+                "example": "Kitab mal yumhafa",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "He has a book"
             }
@@ -65,7 +65,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Third person pronoun, feminine",
-                "example": "Kitab jal yamuhifa ",
+                "example": "Kitab jal yumhafa",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "She has a book"
             }
@@ -79,7 +79,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "First person pronoun, plural",
-                "example": "Al-Ibar miri šivaca",
+                "example": "Al-Ibar miri šuvaca",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "We watered the plant"
             }
@@ -107,7 +107,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Pronoun for things which are near. Equivalent to \"this\" in English.",
-                "example": "Ibar hada yatubara",
+                "example": "Ibar hada yutbara",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "This is a tree"
             }
@@ -121,7 +121,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Pronoun for things which are far. Equivalent to \"that\" in English.",
-                "example": "Kitab hada yatubara kai Ibar kada yatubara.",
+                "example": "Kitab hada yutbara kai Ibar kada yutbara.",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "This is a book and that is a tree."
             }
@@ -135,7 +135,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Used to refer to a thing previously mentioned or easily identified.",
-                "example": "Kitab kapa yatubara",
+                "example": "Kitab kapa yutbara",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "It is a book"
             }
@@ -149,7 +149,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "CONJUNCTION",
                 "explanation": "And",
-                "example": "Mir yakataba kai selemir Ibar mir yašuvatsa",
+                "example": "Mir yaktaba kai selemir Ibar mir yušvaca",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "I am writing and I am watering my plant"
             }
@@ -219,7 +219,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "ARTICLE",
                 "explanation": "Defininite article. Used to specify nouns. ",
-                "example": "Al-Ibar kada Ibar yatubara",
+                "example": "Al-Ibar kada Ibar yutbara",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "That tree is the tree"
             }
@@ -331,7 +331,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "Ka",
                 "explanation": "Negation",
-                "example": "Kada mir ka yaduzara",
+                "example": "Kada mir ka yudzara",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "I don't want that"
             }
@@ -345,7 +345,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "Adverb",
                 "explanation": "Here",
-                "example": "Hor mir yatubara",
+                "example": "Hor mir yutbara",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "I am here"
             }
@@ -359,7 +359,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "ADVERB",
                 "explanation": "Now",
-                "example": "Kor hor mir yatubara",
+                "example": "Kor hor mir yutbara",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "I am now here"
             }
@@ -373,7 +373,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Who",
-                "example": "Tu vo yastatubara",
+                "example": "Tu vo yastatbira",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "Who are you"
             }
@@ -387,7 +387,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "What",
-                "example": "Kada var yastatubara",
+                "example": "Kada var yastatbira",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "What is that"
             }
@@ -401,7 +401,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "When",
-                "example": "Tu vin yastazunama",
+                "example": "Tu vin yastaznima",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "When are you comming"
             }
@@ -415,7 +415,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Where",
-                "example": "Al ibar vac yastatubara",
+                "example": "Al ibar vac yastatbira",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "Where is the tree"
             }
@@ -429,7 +429,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Why",
-                "example": "Al ibar šivotso voi isktibara",
+                "example": "Al ibar šivoc voi yastatbira",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "Why is the tree wet"
             }
@@ -443,7 +443,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to writing",
-                "example": "Kitab mal kutaba ",
+                "example": "Kitab mal kutaba",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "He wrote a book"
             },
@@ -484,7 +484,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to being",
-                "example": "Kitob mal jatubara",
+                "example": "Kitob mal yutbara",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "He is smart"
             }
@@ -498,7 +498,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to having",
-                "example": "Al-Kitab mal jamuhafa",
+                "example": "Al-Kitab mal yumhafa",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "He has the book"
             }
@@ -512,7 +512,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to doing",
-                "example": "Tilon tal jakufaza",
+                "example": "Tilon tal yukfaza",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "They are doing well"
             }
@@ -526,7 +526,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to going.",
-                "example": "Kada mal jazutsama",
+                "example": "Kada mal yuztsama",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "He is going there"
             }
@@ -540,7 +540,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to coming; arriving",
-                "example": "Mir mal jazunama dar",
+                "example": "Mir mal yuznama dar",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "He came to me"
             }
@@ -582,7 +582,7 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to seeing; watching",
-                "example": "Al-Ibar abara mal javubana",
+                "example": "Al-Ibar abara mal yuvbana",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "He is watching the tree grow"
             }
