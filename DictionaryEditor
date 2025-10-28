@@ -1,0 +1,239 @@
+<html>
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="./dictionary.js"></script>
+    <title>Dictionary</title>
+</head>
+
+<body>
+    <div class="container mt-4 mb-4" id="app">
+        <div class="row">
+
+            <div class="col-sm-10">
+                <div class="row mb-3">
+                    <label for="desc" class="col-sm-2">Description: </label>
+                    <input type="text" class="form-control col-sm-5" id="desc" v-model="description" />
+                </div>
+                <div class="row mb-3">
+                    <label for="gloss" class="col-sm-2">Have Glosses: </label>
+                    <div class="col-sm-2">
+                        <input type="checkbox" class="form-control" id="gloss" v-model="hasGlosses" />
+                    </div>
+                </div>
+                <div class="row mb-3">
+                    <label for="word" class="col-sm-2">Word: </label>
+                    <input type="text" class="form-control col-sm-5" id="word" v-model="currentWord.word" />
+                </div>
+                <div class="row">
+                    <label for="body" class="col-sm-2 col-form-label">Uses:</label>
+                    <div class="col-sm-10">
+                        <div class="row form-group" v-for="(value, idx) in currentWord.uses">
+                            <div class="col-sm-2">
+                                <h4>Use {{ idx + 1 }} <button class="btn btn-sm btn-outline-danger"
+                                        v-on:click="removeUse(idx)">-</button>:</h4>
+                            </div>
+                            <div class="col-sm-10">
+                                <div class="row mb-1">
+                                    <label for="badgeText" class="col-sm-4 col-form-label">Has badge? </label>
+                                    <div class="col-sm-2">
+                                        <input type="checkbox" class="form-control" id="hasBadge"
+                                            v-model="currentWord.uses[idx].hasBadge" />
+                                    </div>
+                                </div>
+                                <div class="row mb-1">
+                                    <label for="badgeText" class="col-sm-4 col-form-label">Use badge: </label>
+                                    <div class="col-sm-8">
+                                        <input type="text" class="form-control" id="badgeText"
+                                            v-model="currentWord.uses[idx].badgeText" />
+                                    </div>
+                                </div>
+                                <div class="row mb-1">
+                                    <label for="type" class="col-sm-4 col-form-label">Use type: </label>
+                                    <div class="col-sm-8">
+                                        <input type="text" class="form-control" id="type"
+                                            v-model="currentWord.uses[idx].type" />
+                                    </div>
+                                </div>
+                                <div class="row mb-1">
+                                    <label for="explanation" class="col-sm-4 col-form-label">Explanation: </label>
+                                    <div class="col-sm-8">
+                                        <input type="text" class="form-control" id="explanation"
+                                            v-model="currentWord.uses[idx].explanation" />
+                                    </div>
+                                </div>
+                                <div class="row mb-1">
+                                    <label for="example" class="col-sm-4 col-form-label">Example: </label>
+                                    <div class="col-sm-8">
+                                        <input type="text" class="form-control" id="example"
+                                            v-model="currentWord.uses[idx].example" />
+                                    </div>
+                                </div>
+                                <div class="row mb-1" v-if="hasGlosses">
+                                    <label for="glosses" class="col-sm-4 col-form-label">Gloss: </label>
+                                    <div class="col-sm-8">
+                                        <input type="text" class="form-control" id="glosses"
+                                            v-model="currentWord.uses[idx].gloss" />
+                                    </div>
+                                </div>
+                                <div class="row mb-1">
+                                    <label for="exampleTranslation" class="col-sm-4 col-form-label">Example (Translate):
+                                    </label>
+                                    <div class="col-sm-8">
+                                        <input type="text" class="form-control" id="exampleTranslation"
+                                            v-model="currentWord.uses[idx].exampleTranslation" />
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <button class="btn btn-primary" v-on:click="addUse()">+ Přidat</button>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-sm-2">
+                <div class="btn-toolbar" v-for="value in getUses()">
+                    <div class="btn-group btn-group-sm">
+                        <button v-on:click="continueTo(value.word)"
+                            v-bind:class="'btn ' + (value.active ? 'btn-warning' : 'btn-secondary') ">{{ value.word }}
+                            &ndash; {{ value.uses[0].explanation.split(" ")[0].split(",")[0] }}</button>
+                    </div>
+                    <div class="btn-group btn-group-sm" v-if="!value.active">
+                        <button class="btn btn-outline-danger" v-on:click="removeWord(value.word)">-</button>
+                    </div>
+                </div>
+                <button class="btn btn-primary btn-sm" v-on:click="addWord()">+ Add</button>
+
+            </div>
+            <hr />
+            <div class="col-sm-12 mt-4">
+                <label>Click <button class="btn btn-link" v-on:click="copyToClipboard('src')">copy</button> to copy
+                    your dictionary (similar to <kbd>Ctrl + C</kbd>), so you can save it to
+                    <i>dictionary.js</i>.</label>
+                <textarea id="src" readonly v-model="dictionaryToString" class="form-control" rows="10"></textarea>
+            </div>
+        </div>
+    </div>
+
+    <script>
+
+        var app = new Vue({
+            el: '#app',
+            data: {
+                dictionary: externalDictionary,
+                description: dictionaryDescription,
+                hasGlosses: dictionaryHaveGlosses,
+                index: 0,
+                badgeChoices: ["ARCHAIC", "SLANG"],
+                typeChoices: ["NOUN", "VERB", "ADJECTIVE", "SPECIAL"],
+            },
+            computed: {
+                currentWord: function () {
+                    return this.dictionary[this.index];
+                },
+                dictionaryToString: function () {
+                    return "dictionaryDescription = \"" + this.description + "\",\n" + "dictionaryHaveGlosses = " + this.hasGlosses + ",\n" + "externalDictionary = " + JSON.stringify(this.dictionary, null, 4);
+                },
+                sortedDictionary: function () {
+                    return this.dictionary.sort(function (a, b) {
+                        if (a.word < b.word)
+                            return -1;
+                        if (a.word > b.word)
+                            return 1;
+                        return 0;
+                    });
+                }
+            },
+            methods: {
+                copyToClipboard(selector) {
+                    var el = document.getElementById(selector);
+                    el.select();
+                    document.execCommand("copy");
+                },
+                getUses: function () {
+                    var pole = [];
+                    for (var i = 0; i < this.dictionary.length; i++) {
+                        var insa = [];
+                        for (var j = 0; j < this.dictionary[i].uses.length; j++) {
+                            insa.push({
+                                hasBadge: this.dictionary[i].uses[j].hasBadge,
+                                badgeText: this.dictionary[i].uses[j].badgeText,
+                                type: this.dictionary[i].uses[j].type,
+                                explanation: this.dictionary[i].uses[j].explanation,
+                                example: this.dictionary[i].uses[j].example,
+                                exampleTranslation: this.dictionary[i].uses[j].exampleTranslation,
+                            });
+                        }
+                        pole.push({
+                            uses: insa,
+                            active: this.dictionary[i] == this.dictionary[this.index],
+                            word: this.dictionary[i].word,
+                        });
+                    }
+                    return pole;
+                },
+                addWord: function () {
+                    this.dictionary.push({
+                        word: "NEW WORD",
+                        uses: [{
+                            hasBadge: false,
+                            badgeText: "",
+                            type: "WORD TYPE",
+                            explanation: "Explain usage here.",
+                            example: "Example of this usage (in Imperius)",
+                            gloss: "help-less-ness",
+                            exampleTranslation: "Example of this usage (Translation)"
+                        }]
+                    });
+                },
+                removeWord: function (word) {
+                    var idx = 0;
+                    for (var i = 0; i < this.dictionary.length; i++) {
+                        if (this.dictionary[i].word == word) {
+                            idx = i;
+                            break;
+                        }
+                    }
+                    if (confirm('Really wanna delete this word: [ ' + this.dictionary[idx].word + ' ] ?'))
+                        this.dictionary.splice(idx, 1);
+                },
+                addUse: function () {
+                    this.currentWord.uses.push({
+                        hasBadge: false,
+                        badgeText: "",
+                        type: "WORD TYPE",
+                        explanation: "Explain usage here.",
+                        example: "Example of this usage (in Imperius)",
+                        gloss: "help-less-ness",
+                        exampleTranslation: "Example of this usage (Translation)"
+                    });
+                },
+                removeUse: function (idx) {
+                    if (confirm('Really wanna delete this use: [ ' + this.currentWord.uses[idx].explanation + ' ] ?'))
+                        this.currentWord.uses.splice(idx, 1);
+                },
+                continueTo: function (label) {
+                    for (var i = 0; i < this.dictionary.length; i++) {
+                        if (this.dictionary[i].word == label) {
+                            this.index = i;
+                            return;
+                        }
+                    }
+                }
+            }
+        });
+
+    </script>
+</body>
+
+</html>
