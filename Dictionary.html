@@ -1,0 +1,68 @@
+<html>
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="./dictionary.js"></script>
+    <title>Dictionary</title>
+</head>
+
+<body>
+    <div class="container" id="app">
+        <div class="jumbotron">
+            <h1>Dictionary</h1>
+            <p>{{ description }}</p>
+        </div>
+        <div v-for="item in dictionary">
+            <h2>{{ item.word }}</h2>
+            <div v-for="use in item.uses">
+                <br />
+                <h5><span v-if="use.hasBadge" class="badge badge-secondary"><samp>{{ use.badgeText }}</samp></span> <span class="badge badge-primary badge-pill"><i>{{ use.type }}</i></span> {{ use.explanation }}</h5>
+                <strong>{{ use.example }}</strong>
+                <div v-if="glosses">
+                    <samp>{{ use.gloss }}</samp>
+                </div>
+                <i>{{ use.exampleTranslation }}</i>
+            </div>
+            <hr />
+        </div>
+        <strong class="text-left float">{{ randomCatchphrase }} {{ dictionary.length }} words!</strong>
+        <i class="float-right">Made by RadarDev</i>
+    </div>
+
+    <script>
+
+        var app = new Vue({
+            el: '#app',
+            data: {
+                dictionary: externalDictionary,
+                description: dictionaryDescription,
+                glosses: dictionaryHaveGlosses,
+                randomCatchphrase: '',
+                catchphrases: ['Explaining', 'Home to', 'Having exactly', 'Serving', 'Accomodating', "Containing", "This haves", "Dictionary size:"],
+                interval: null,
+            },
+			methods: {
+				getRandomItem() {
+					var randomIndex = Math.floor(Math.random() * this.catchphrases.length);
+					this.randomCatchphrase = this.catchphrases[randomIndex];
+				},
+			},
+            beforeMount() {
+                this.getRandomItem()
+                this.interval = setInterval(this.getRandomItem(), 1000);
+            },
+
+        });
+
+    </script>
+</body>
+
+</html>
