@@ -9,9 +9,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "First person pronoun",
-                "example": "Kitab mir yumhafa",
+                "example": "",
                 "gloss": "I look (on) human that.",
-                "exampleTranslation": "I have a book"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -23,9 +23,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Second person pronoun",
-                "example": "Kitab tu yumhafa",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "You have a book"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -37,9 +37,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Third person pronoun, gender neutral",
-                "example": "Kitab tal yumhafa",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "They have a book"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -51,9 +51,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Third person pronoun, masculine",
-                "example": "Kitab mal yumhafa",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He has a book"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -65,9 +65,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Third person pronoun, feminine",
-                "example": "Kitab jal yumhafa",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "She has a book"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -79,9 +79,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "First person pronoun, plural",
-                "example": "Al-Ibar miri šuvaca",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "We watered the plant"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -93,9 +93,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Third person pronoun, plural",
-                "example": "Al-Ibar tali šuvaca",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "They (plural) watered the plant"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -107,9 +107,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Pronoun for things which are near. Equivalent to \"this\" in English.",
-                "example": "Ibar hada yutbara",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "This is a tree"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -121,9 +121,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Pronoun for things which are far. Equivalent to \"that\" in English.",
-                "example": "Kitab hada yutbara kai Ibar kada yutbara.",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "This is a book and that is a tree."
+                "exampleTranslation": ""
             }
         ]
     },
@@ -135,9 +135,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Used to refer to a thing previously mentioned or easily identified.",
-                "example": "Kitab kapa yutbara",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "It is a book"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -149,9 +149,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "CONJUNCTION",
                 "explanation": "And",
-                "example": "Mir yaktaba kai selemir Ibar mir yušvaca",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "I am writing and I am watering my plant"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -163,9 +163,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "CONJUNCTION",
                 "explanation": "But",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -177,9 +177,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "CONJUNCTION",
                 "explanation": "Or",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -191,9 +191,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "CONJUNCTION",
                 "explanation": "If",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -205,9 +205,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "CONJUNCTION",
                 "explanation": "Because",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -218,10 +218,10 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "ARTICLE",
-                "explanation": "Defininite article. Used to specify nouns. ",
-                "example": "Al-Ibar kada Ibar yutbara",
+                "explanation": "Defininite article. Used to specify nouns and adjectives. ",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "That tree is the tree"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -233,9 +233,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PREPOSITION",
                 "explanation": "For",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -247,9 +247,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PREPOSITION",
                 "explanation": "Towards",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -261,9 +261,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PREPOSITION",
                 "explanation": "In",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -275,9 +275,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PREPOSITION",
                 "explanation": "On",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -289,9 +289,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PREPOSITION",
                 "explanation": "At",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -303,9 +303,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PREPOSITION",
                 "explanation": "From",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -317,9 +317,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PREPOSITION",
                 "explanation": "With",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -331,9 +331,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "Ka",
                 "explanation": "Negation",
-                "example": "Kada mir ka yudzara",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "I don't want that"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -345,9 +345,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "Adverb",
                 "explanation": "Here",
-                "example": "Hor mir yutbara",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "I am here"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -359,9 +359,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "ADVERB",
                 "explanation": "Now",
-                "example": "Kor hor mir yutbara",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "I am now here"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -373,9 +373,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Who",
-                "example": "Tu vo yastatbira",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "Who are you"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -387,9 +387,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "What",
-                "example": "Kada var yastatbira",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "What is that"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -401,9 +401,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "When",
-                "example": "Tu vin yastaznima",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "When are you comming"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -415,9 +415,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Where",
-                "example": "Al ibar vac yastatbira",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "Where is the tree"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -429,9 +429,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "PRONOUN",
                 "explanation": "Why",
-                "example": "Al ibar šivoc voi yastatbira",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "Why is the tree wet"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -443,36 +443,36 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to writing",
-                "example": "Kitab mal kutaba",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He wrote a book"
+                "exampleTranslation": ""
             },
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
                 "explanation": "Relates to books",
-                "example": "Kitab mal kutaba",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He wrote a book"
+                "exampleTranslation": ""
             },
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "ADVERB",
                 "explanation": "In a standard way; \"by the books\"",
-                "example": "N/A",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "N/A"
+                "exampleTranslation": ""
             },
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "ADJECTIVE",
                 "explanation": "Intelligent; having the quality of books",
-                "example": "Kitob mal jatubara",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He is smart"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -483,10 +483,10 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to being",
-                "example": "Kitob mal yutbara",
+                "explanation": "Relates to being. Only used outside of the present tense.",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He is smart"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -498,9 +498,9 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to having",
-                "example": "Al-Kitab mal yumhafa",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He has the book"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -512,37 +512,37 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to doing",
-                "example": "Tilon tal yukfaza",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "They are doing well"
+                "exampleTranslation": ""
             }
         ]
     },
     {
-        "word": "Z-Ts-M",
+        "word": "Ż-Z-M",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to going.",
-                "example": "Kada mal yuztsama",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He is going there"
+                "exampleTranslation": ""
             }
         ]
     },
     {
-        "word": "Z-N-M",
+        "word": "Ż-N-M",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to coming; arriving",
-                "example": "Mir mal yuznama dar",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He came to me"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -554,23 +554,23 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to making",
-                "example": "Fikar mal mukama",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He made a fire"
+                "exampleTranslation": ""
             }
         ]
     },
     {
-        "word": "R-Z-V",
+        "word": "R-Ż-V",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to recieving",
-                "example": "Al-Kitab mal ruzava",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He got the book"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -582,9 +582,121 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "Relates to seeing; watching",
-                "example": "Al-Ibar abara mal yuvbana",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "He is watching the tree grow"
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ż-P-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to speaking",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "N-R-Ż",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to knowing",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "D-Ż-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to wanting; desiring",
+                "example": "Example of this usage (in Imperius)",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "Example of this usage (Translation)"
+            }
+        ]
+    },
+    {
+        "word": "R-Q-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to needing; requiring",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "N-B-T",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to growing",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Z-N-Q",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to thinking",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ż-K-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to liking",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ż-V-S",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to loving",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
             }
         ]
     }
