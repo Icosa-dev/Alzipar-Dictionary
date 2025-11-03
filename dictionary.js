@@ -1015,5 +1015,518 @@ externalDictionary = [
                 "exampleTranslation": ""
             }
         ]
+    },
+    {
+        "word": "Uma",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Mother",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Aba",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Father",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Azim",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Great, Mighty, Major",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Uma Azim",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Grandmother",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Aba Azim",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Greatgrandfather",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Nona",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Grandmother (informal)",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Nono",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Grandfather (informal)",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ziu",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Uncle",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Zia",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Aunt",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kuġin",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Male cousin",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kuġine",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Female cousin",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Uk",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Sister",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ak",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "WORD TYPE",
+                "explanation": "Explain usage here.",
+                "example": "Example of this usage (in Imperius)",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "Example of this usage (Translation)"
+            }
+        ]
+    },
+    {
+        "word": "Aben",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Son",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Binet",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Daughter",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Tifel",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Child",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Tajir",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Bird",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Qita",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Cat",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kaleb",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Dog",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "S-M-K",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to swimming",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relates to fish",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Giram",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Lizard",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ġirad",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Mouse",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Finak",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Rabit",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Far",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Rat",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Sirap",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Snake, Serpent",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Fekruna",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Turtle",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Biqar",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Cow",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Pilor",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Chicken",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Himar",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Donkey",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Mjula",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Mule",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Qipar",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Goat",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Hisan",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Horse",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Limah",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Llama",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Tiwar",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Ox",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kinar",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Pig",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ginam",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Sheep",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
     }
 ]
