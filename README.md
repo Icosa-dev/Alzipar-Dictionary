@@ -1,1 +1,1 @@
-# Alzipar-Dictionary
+# Alzapar-Dictionary
