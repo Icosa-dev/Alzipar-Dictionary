@@ -67,29 +67,19 @@ def _get_verb_forms(r1, r2, r3):
     words = []
 
     # (V1) Intransative: 1a2a3a/Ya12a3a
-    words.append(_get_word(f"{r1.upper()}a{r2}a{r3}a", "(V1) Past Tense Intransative Verb", r1, r2, r3))
-    words.append(_get_word(f"Ya{r1}{r2}a{r3}a", "(V1) Present Tense Intransative Verb", r1, r2, r3))
-    # (V2) Causative: 1a2i3u/Ya12i3u
-    words.append(_get_word(f"{r1.upper()}a{r2}i{r3}u", "(V2) Past Tense Causative Verb", r1, r2, r3))
-    words.append(_get_word(f"Ya{r1}{r2}i{r3}u", "(V1) Present Tense Causative Verb", r1, r2, r3))
-    # (V3) Transative: 1u2a3a/Yu12a3a
-    words.append(_get_word(f"{r1.upper()}u{r2}a{r3}a", "(V3) Past Tense Transative Verb", r1, r2, r3))
-    words.append(_get_word(f"Yu{r1}{r2}a{r3}a", "(V3) Present Tense Transative Verb", r1, r2, r3))
-    # (V4) Minor Causative: A12a3a/Yu12i3u
-    words.append(_get_word(f"A{r1}{r2}a{r3}a", "(V4) Past Tense Minor Causative Verb", r1, r2, r3))
-    words.append(_get_word(f"Yu{r1}{r2}i{r3}u", "(V4) Present Tense Minor Causative Verb", r1, r2, r3))
-    # (V5) Reflexive: Ta1a2a3a/Yata1a2a3a
-    words.append(_get_word(f"Ta{r1}a{r2}a{r3}a", "(V5) Past Tense Reflexive Verb", r1, r2, r3))
-    words.append(_get_word(f"Yata{r1}a{r2}a{r3}a", "(V5) Present Tense Reflexive Verb", r1, r2, r3))
-    # (V6) Cooperative: Ta1a2u3a/Yata1a2u3a
-    words.append(_get_word(f"Ta{r1}a{r2}u{r3}a", "(V6) Past Tense Cooperative Verb", r1, r2, r3))
-    words.append(_get_word(f"Yata{r1}a{r2}u{r3}a", "(V6) Present Tense Cooperative Verb", r1, r2, r3))
-    # (V7) Transformative: I12a3a/Yai12a3a
-    words.append(_get_word(f"I{r1}{r2}a{r3}a", "(V7) Past Tense Transformative Verb", r1, r2, r3))
-    words.append(_get_word(f"Yai{r1}{r2}a{r3}a", "(V7) Present Tense Transformative Verb", r1, r2, r3))
-    # (V8) Inquisitive: Ista12a3a/Yasta12a3a
-    words.append(_get_word(f"Ista{r1}{r2}a{r3}a", "(V8) Past Tense Cooperative Verb", r1, r2, r3))
-    words.append(_get_word(f"Yasta{r1}{r2}a{r3}a", "(V8) Present Tense Cooperative Verb", r1, r2, r3))
+    words.append(_get_word(f"{r1.upper()}a{r2}a{r3}a", "(V1) Intransative Verb", r1, r2, r3))
+    # (V2) Transative: 1u2a3a/Yu12a3a
+    words.append(_get_word(f"{r1.upper()}u{r2}a{r3}a", "(V2) Transative Verb", r1, r2, r3))
+    # (V3) Causative: A12a3a/Yu12i3u
+    words.append(_get_word(f"A{r1}{r2}a{r3}a", "(V3) Causative Verb", r1, r2, r3))
+    # (V4) Reflexive: Ta1a2a3a/Yata1a2a3a
+    words.append(_get_word(f"Ta{r1}a{r2}a{r3}a", "(V4) Reflexive Verb", r1, r2, r3))
+    # (V5) Cooperative: Ta1a2u3a/Yata1a2u3a
+    words.append(_get_word(f"Ta{r1}a{r2}u{r3}a", "(V5) Cooperative Verb", r1, r2, r3))
+    # (V6) Transformative: I12a3a/Yai12a3a
+    words.append(_get_word(f"I{r1}{r2}a{r3}a", "(V6) Transformative Verb", r1, r2, r3))
+    # (V7) Inquisitive: Ista12a3a/Yasta12a3a
+    words.append(_get_word(f"Ista{r1}{r2}a{r3}a", "(V7) Inquisitive Verb", r1, r2, r3))
     return words
 
 def _get_noun_forms(r1, r2, r3):
@@ -129,10 +119,10 @@ def generate_words():
         for word in _get_verb_forms(r1, r2, r3):
             words.append(word)
     if (input("generate noun forms?[y/N]: ").lower() == "y"):
-        for word in _get_noun_forms():
+        for word in _get_noun_forms(r1, r2, r3):
             words.append(word)
     if (input("generate descriptor forms?[y/N]: ").lower() == "y"):
-        for word in _get_descriptor_forms():
+        for word in _get_descriptor_forms(r1, r2, r3):
             words.append(word)
 
     return words
