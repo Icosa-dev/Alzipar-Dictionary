@@ -2,7 +2,7 @@ dictionaryDescription = "Alzipar Dictionary",
 dictionaryHaveGlosses = false,
 externalDictionary = [
     {
-        "word": "Mir",
+        "word": "Mi",
         "uses": [
             {
                 "hasBadge": false,
@@ -100,13 +100,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hada",
+        "word": "Dan",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "PRONOUN",
-                "explanation": "Pronoun for things which are near. Equivalent to \"this\" in English.",
+                "explanation": "Pronoun for things which are near. Equivalent to \"this\" and \"it\" in English.",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -114,7 +114,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kada",
+        "word": "Dak",
         "uses": [
             {
                 "hasBadge": false,
@@ -128,21 +128,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kapa",
-        "uses": [
-            {
-                "hasBadge": false,
-                "badgeText": "",
-                "type": "PRONOUN",
-                "explanation": "Used to refer to a thing previously mentioned or easily identified.",
-                "example": "",
-                "gloss": "help-less-ness",
-                "exampleTranslation": ""
-            }
-        ]
-    },
-    {
-        "word": "Kai",
+        "word": "U",
         "uses": [
             {
                 "hasBadge": false,
@@ -156,7 +142,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Abai",
+        "word": "Ima",
         "uses": [
             {
                 "hasBadge": false,
@@ -170,7 +156,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Odai",
+        "word": "Ju",
         "uses": [
             {
                 "hasBadge": false,
@@ -184,7 +170,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Vai",
+        "word": "Jek",
         "uses": [
             {
                 "hasBadge": false,
@@ -198,7 +184,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Epai",
+        "word": "Ki",
         "uses": [
             {
                 "hasBadge": false,
@@ -226,7 +212,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fur",
+        "word": "Gal",
         "uses": [
             {
                 "hasBadge": false,
@@ -240,7 +226,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Dar",
+        "word": "Lejn",
         "uses": [
             {
                 "hasBadge": false,
@@ -254,13 +240,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kon",
+        "word": "Fi",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "PREPOSITION",
-                "explanation": "In",
+                "explanation": "In or at",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -268,7 +254,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Tep",
+        "word": "Alaj",
         "uses": [
             {
                 "hasBadge": false,
@@ -282,13 +268,22 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Jor",
+        "word": "Min",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "PREPOSITION",
-                "explanation": "At",
+                "explanation": "By or via",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PRONOUN",
+                "explanation": "Who",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -302,7 +297,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "PREPOSITION",
-                "explanation": "From",
+                "explanation": "Hailing from",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -324,12 +319,12 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ka",
+        "word": "La",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
-                "type": "Ka",
+                "type": "ADVERB/ADJECTIVE",
                 "explanation": "Negation",
                 "example": "",
                 "gloss": "help-less-ness",
@@ -338,7 +333,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hor",
+        "word": "Hawn",
         "uses": [
             {
                 "hasBadge": false,
@@ -352,7 +347,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kor",
+        "word": "Isa",
         "uses": [
             {
                 "hasBadge": false,
@@ -366,21 +361,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Vo",
-        "uses": [
-            {
-                "hasBadge": false,
-                "badgeText": "",
-                "type": "PRONOUN",
-                "explanation": "Who",
-                "example": "",
-                "gloss": "help-less-ness",
-                "exampleTranslation": ""
-            }
-        ]
-    },
-    {
-        "word": "Var",
+        "word": "Mada",
         "uses": [
             {
                 "hasBadge": false,
@@ -394,12 +375,12 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Vin",
+        "word": "Mata",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
-                "type": "PRONOUN",
+                "type": "ADVERB",
                 "explanation": "When",
                 "example": "",
                 "gloss": "help-less-ness",
@@ -408,12 +389,12 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Vak",
+        "word": "Fejn",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
-                "type": "PRONOUN",
+                "type": "ADVERB",
                 "explanation": "Where",
                 "example": "",
                 "gloss": "help-less-ness",
@@ -422,12 +403,12 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Voi",
+        "word": "Limada",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
-                "type": "PRONOUN",
+                "type": "ADVERB",
                 "explanation": "Why",
                 "example": "",
                 "gloss": "help-less-ness",
@@ -2063,6 +2044,20 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "ADJECTIVE",
                 "explanation": "Something which is safe, unharmed, at peace",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Iva",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADVERB",
+                "explanation": "Agreement",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
