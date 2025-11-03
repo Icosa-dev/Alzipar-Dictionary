@@ -1,4 +1,4 @@
-dictionaryDescription = "Alzipar Dictionary",
+dictionaryDescription = "Alzapar Dictionary",
 dictionaryHaveGlosses = false,
 externalDictionary = [
     {
