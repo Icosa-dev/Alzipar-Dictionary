@@ -2,13 +2,13 @@ dictionaryDescription = "Alzipar Dictionary",
 dictionaryHaveGlosses = false,
 externalDictionary = [
     {
-        "word": "Qudim",
+        "word": "Mir",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
-                "type": "NOUN",
-                "explanation": "Foot",
+                "type": "PRONOUN",
+                "explanation": "First person pronoun",
                 "example": "",
                 "gloss": "I look (on) human that.",
                 "exampleTranslation": ""
