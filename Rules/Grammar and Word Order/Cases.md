@@ -21,3 +21,5 @@ So in all, after translating the phrases from English to Alżapar:
 
 Then adding the case markers to each noun: Mi -> Miun, Al-Aben -> Al-Abenan, Al-Kitab -> Al-Kitaban, Aṡ-Ṡajarin. Then in proper order (VSO) the sentence would be translated as:
 *"Lutaha miun al-Abenan al-Kitaban Aṡ-Ṡaharin."*
+
+It's common in speach to drop the n of the case markers. For example someone may say /kitabu/ instead of /kitabun/. 
