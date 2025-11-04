@@ -33,7 +33,7 @@ The following is the Latin alphabet for the language along with IPA values for e
 
 Words are spelled as they sound.
 
-The first word of a sentence and all nouns (sans pronouns) are capitalized. Proper nouns of great significance may be written in all caps. Sentences are seperated by full stops and words are seperated by spaces.
+The first word of a sentence and all nouns (sans pronouns) are capitalized. Proper nouns of great significance may be written in all caps. Sentences are seperated by full stops and words are seperated by spaces. The word before a conjunction will have a comma appended to it.
 
 In informal writting the case markers can be excluded.
 
