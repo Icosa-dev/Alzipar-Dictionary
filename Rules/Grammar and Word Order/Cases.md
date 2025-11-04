@@ -17,7 +17,7 @@ So in all, after translating the phrases from English to Alżapar:
 |       Gave       |       Lutaha     |
 |       The Boy    |      Al-Aben     |
 |       The Book   |      Al-Kitab    |
-|       Of Poetry  |      Aṡ-Ṡajar    |
+|       Of Poetry  |      Aṡ-Ṡahar    |
 
 Then adding the case markers to each noun: Mi -> Miun, Al-Aben -> Al-Abenan, Al-Kitab -> Al-Kitaban, Aṡ-Ṡajarin. Then in proper order (VSO) the sentence would be translated as:
-*"Lutaha miun al-Abenan al-Kitaban Aṡ-Ṡajarin."*
+*"Lutaha miun al-Abenan al-Kitaban Aṡ-Ṡaharin."*
