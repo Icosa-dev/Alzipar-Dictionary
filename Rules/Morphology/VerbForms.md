@@ -3,7 +3,7 @@
 Verbs of the core vocabulary take triconsonantal form. That is to say they have a 3 consonant root (1-2-3) which is then affixed and transfixed to create new verbs. Not every verb in the language is triconsonantal. Not every root may have every form defined. And nouns, esspecially loan nouns, will tend to stray from the predefined roots.
 
 Given a root (1-2-3) and its general meaning (X) a verb may take the following forms:
-|   Form   |   Past Tense (Default)     |   Present Tense   |   Meaning                       |   Name                 |
+|   Form   |   Past Tense (Default)     |   Present Tense   |   Meaning                       |   Form Name            |
 |----------|----------------------------|-------------------|---------------------------------|------------------------|
 |   (V0)   |           N/A              |        N/A        |   Irregular non-rooted verb     | Forma (Verbali) Garib  |
 |   (V1)   |          1a2a3a            |      Ja12a3a      |   To do X                       | Forma Komuni           | 
