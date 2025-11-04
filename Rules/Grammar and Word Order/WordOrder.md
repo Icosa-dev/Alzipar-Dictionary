@@ -1,6 +1,6 @@
 # Alżapar Grammar: Word Order
 
-The basic sentence structure of the formal literary language is that of VSO ("Ate sam apples"). However informal and common speech may often take the form of SVO ("Sam ate apples"). 
+The basic sentence structure of the formal literary language is that of VSO ("Ate sam apples"). However informal and common speech may often take the form of SVO ("Sam ate apples"). For example a formal literary sentence may be *Jusmaka as-Simakun aṡ-Ṡivazan al-Baridin* however in common speech it may be said as *As-Simakun jusmaka aṡ-Ṡivazan al-Baridin*. Both translate to "The fish is swimming in the cold water".
 
 The internal order of descriptors is as follows:
 1. Quantity
