@@ -11,8 +11,8 @@ Given a root (1-2-3) and its general meaning (X) a verb may take the following f
 |   (V3)   |          A12a3a            |      Ju12i3u      |   To make someone do X          | Forma Każativ          |
 |   (V4)   |          Ta1a2a3a          |      Jata1a2a3a   |   To do X unto oneself          | Forma Refleksiv        |
 |   (V5)   |          Ta1a2a3u          |      Jata1a2a3u   |   To do X unto one another      | Forma Kooperativ       |
-|   (V6)   |          I12a3a            |      Jai12a3a     |   To become X                   | Forma transformativ    |
-|   (V7)   |          Ista12a3a         |      Jasta12a3a   |   To ask to do X                | Forma kurjuż           |
+|   (V6)   |          I12a3a            |      Jai12a3a     |   To become X                   | Forma Transformativ    |
+|   (V7)   |          Ista12a3a         |      Jasta12a3a   |   To ask to do X                | Forma Kurjuż           |
 
 Beyond the past and present tense are the future and perfect tense which can be achieved by taking the past tense form and adding the "sa-" or "ma-" prefix respectively.
 
