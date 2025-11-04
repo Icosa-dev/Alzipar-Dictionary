@@ -1834,10 +1834,10 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "WORD TYPE",
-                "explanation": "Explain usage here.",
-                "example": "Example of this usage (in Imperius)",
+                "explanation": "Two",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "Example of this usage (Translation)"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -2482,6 +2482,126 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "NOUN",
                 "explanation": "Consonant",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kopi",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Coffee",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "L-K-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to tasting",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to taste",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "To taste good",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "K-B-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to growing or being important",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADVERB",
+                "explanation": "To do something impactfully and or with great important",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "To be large or important",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Frisk",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Fresh",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ġadid",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "New",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Qadim",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Old",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
