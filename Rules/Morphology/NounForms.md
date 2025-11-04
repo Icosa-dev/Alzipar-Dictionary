@@ -17,9 +17,3 @@ Nouns (regular and irregular) can take on affixes such as:
 |-------------|--------------------------|
 |    La-      |  Very little or none of  |
 |    -ja      |  Land of or state of     |
-
-Irregular nouns can also take on affixes such as:
-|    Affix    |     Meaning              |
-|-------------|--------------------------|
-|    -a       |     Singular             |
-|    -i       |     Plural               |
