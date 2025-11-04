@@ -12,4 +12,4 @@ The internal order of descriptors is as follows:
 7. Color
 8. Origin, Material, or Purpose
 
-For example to describe "Three tasty large, fresh, black coffees" in the language would be *Tirah Kopiun Lakirin Kabirin Friskin Iswedin* which translates literally to "Three coffee tasty big fresh black".
+For example to describe "Three tasty large, fresh, black coffees" in the language would be *Tirah Kopiun Lakirin Kabirin Friskin Aswadin* which translates literally to "Three coffee tasty big fresh black".
