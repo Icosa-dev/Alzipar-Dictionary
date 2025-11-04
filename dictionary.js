@@ -746,13 +746,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Wajah",
+        "word": "W-J-H",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Face",
+                "explanation": "Relating to the face or facade",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -788,13 +788,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Lisan",
+        "word": "L-S-N",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Tongue",
+                "explanation": "Relating to the tongue or dialect",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -802,13 +802,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ṡafah",
+        "word": "Ṡ-F-H",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Lips",
+                "explanation": "Relating to lips or to borders",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -858,13 +858,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Riqeb",
+        "word": "R-Q-B",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Neck",
+                "explanation": "Relating to the neck",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -872,13 +872,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Sadar",
+        "word": "S-D-R",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Chest",
+                "explanation": "Relating to the chest or core",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -886,13 +886,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Madeh",
+        "word": "M-D-H",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Stomach",
+                "explanation": "Relating to the stomach or internals",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -900,16 +900,16 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Direġ",
+        "word": "D-R-Ġ",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Arm",
-                "example": "Example of this usage (in Imperius)",
+                "explanation": "Relating to arms",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "Example of this usage (Translation)"
+                "exampleTranslation": ""
             }
         ]
     },
@@ -1186,7 +1186,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Son",
+                "explanation": "Son or Boy",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -1200,7 +1200,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Daughter",
+                "explanation": "Daughter or Girl",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2352,6 +2352,122 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "NOUN",
                 "explanation": "Adjective",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "L-T-H",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to giving",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relates to gifts",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ṡ-H-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relates to feeling or perception",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relates to poetry ",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Qalb",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Heart",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Sol",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Our sun",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Luna",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Our moon",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Stela",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Star",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Qamar",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Moon",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
