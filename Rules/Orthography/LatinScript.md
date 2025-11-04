@@ -40,3 +40,5 @@ In informal writting the case markers can be excluded.
 When using the definite article "Al-" if it is the first word of a sentence it may be capitalized otherwise it is not capitalized, however the noun itself is. For example "the book" would be translated as "al-Kitab(un)" and not "Al-Kitab(un)" unless it's the first word of a sentence.
 
 If a word using the definite article begins with a sun consonant then the "l" is replaced with that consonant. For example "the water" would be translated as "aṡ-Ṡivaz(un)".
+
+The acute diacritic can be used on the vowel of a stressed sylable however this is uncommon. Most words will have the stress on the penultimate sylable: *Kitábun, Namudnábun, Ṡivázun, Baríkin, Jaqáfa, Jahmára, etc*. The main exception to this and primary reason to use it is for loan words such as *Róża, Persúna, Rispét, Komúnita, Stáġun, etc*.
