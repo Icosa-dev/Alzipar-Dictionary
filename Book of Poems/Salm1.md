@@ -1,0 +1,45 @@
+# Salm 1 (Wada)
+
+## Alzapar
+1. Al-Persunaun al-barikin lajataraġalu dakun al-Muhżanan ju fi-jajqafa al-Tiraqun al-Mudnabin ju fi-jasdara al-Komunitaun al-Natirispetuzin.
+2. Ima fi-Jusbaha minun feran al-Leġian al-Lahin u Jumdata minum alaj malan Leġin Juman u Lejlan.
+3. Talun Ṡaġirun tul-Ṡivazin u fi-jujgata dakun frutan Staġunan <br>
+   u lajudbala minun wiraqan <br>
+   kolun talun jukfaza prosperużin.
+
+4. La al-Muhżanun! <br>
+   Talun pulain <br>
+   tejn-judfaqa al-Difaqun.
+5. Perzio fi-lasajajqafa al-Muhżanun al-Ġimatan laju Mudnabun al-Komunitan al-Ġustin.
+6. Ki fuq-juvbana al-Lahun al-Tiraqan al-Ġustin <br>
+   Ima sakom al-Tiraqun al-Muhżanin Damaran.
+
+## Literal Translation
+1. The-person-NOM the-blessed-GEN not-walk-with-PRES that-NOM the-wicked-ACC or in-stand-PRES the-path-NOM the-sinner-GEN or in-sit-PRES the-community-NOM the-not-respectful-GEN.
+2. But in-find-PRES who-NOM joy-ACC the-law-ACC the-god-GEN and meditate-PRES who-NOM on he law-GEN day-ACC and night-ACC.
+3. They-NOM tree-NOM by-water-GEN and in-yield-PRES that-NOM fruit-ACC season-ACC <br>
+   and not-wither-PRES who-NOM leaf-ACC <br>
+   all they-NOM do-PRES prosperous-GEN.
+
+4. Not the-wicked-NOM! <br>
+   They-NOM chaff-GEN <br>
+   away-blow-PRES the-wind-NOM.
+5. Therefore in-not-will-stand the-wicked-NOM the-judgement-ACC nor the-sinners-NOM the-community-ACC the-just-GEN.
+6. Because over-watch-PRES the-god-NOM the-path-ACC the-just-GEN <br>
+   but will-lead the-path-NOM the-sinner-GEN destruction-ACC.
+
+
+## Non-literal Translation
+1. Blessed is the one who does not walk in the path of the wicked or stand stand in the path which sinners take.
+2. But who's joy is in the law of the Lord which he meditates on day and night
+3. That person is like a tree planted by water <br>
+   whos leaf does not wither <br>
+   everything they do shall prosper.
+
+4. Not for the wicked!
+   They are like chaff
+   which the wind blows away.
+5. So the wicked will not stand in the judgement, <br>
+   nor sinners in the community of the just.
+6. Because the Lord watches over the way of the just, <br>
+   but the way of the wicked leads to destruction.
