@@ -1,7 +1,7 @@
 # Salm 1 (Wada)
 
 ## Alzapar
-1. Al-Persunaun al-barikin lajataraġalu dakun al-Muhżanan ju fi-jajqafa al-Tiraqun al-Mudnabin ju fi-jasdara al-Komunitaun al-Natirispetuzin.
+1. Al-Persunaun al-barikin lajataraġalu dakun al-Muhżanan ju fi-jajqafa al-Tiraqun al-Namudnabin ju fi-jasdara al-Komunitaun al-Natirispetuzin.
 2. Ima fi-Jusbaha minun feran al-Leġian al-Lahin u Jumdata minum alaj malan Leġin Juman u Lejlan.
 3. Talun Ṡaġirun tul-Ṡivazin u fi-jujgata dakun frutan Staġunan <br>
    u lajudbala minun wiraqan <br>
@@ -10,7 +10,7 @@
 4. La al-Muhżanun! <br>
    Talun pulain <br>
    tejn-judfaqa al-Difaqun.
-5. Perzio fi-lasajajqafa al-Muhżanun al-Ġimatan laju Mudnabun al-Komunitan al-Ġustin.
+5. Perzio fi-lasajajqafa al-Muhżanun al-Ġimatan laju Namudnabun al-Komunitan al-Ġustin.
 6. Ki fuq-juvbana al-Lahun al-Tiraqan al-Ġustin <br>
    Ima sakom al-Tiraqun al-Muhżanin Damaran.
 
@@ -30,7 +30,7 @@
 
 
 ## Non-literal Translation
-1. Blessed is the one who does not walk in the path of the wicked or stand stand in the path which sinners take.
+1. Blessed is the one who does not walk in the path of the wicked or stand stand in the path which sinners take or sit in the community of the disrespectful.
 2. But who's joy is in the law of the Lord which he meditates on day and night
 3. That person is like a tree planted by water <br>
    whos leaf does not wither <br>
