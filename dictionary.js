@@ -2063,5 +2063,299 @@ externalDictionary = [
                 "exampleTranslation": ""
             }
         ]
+    },
+    {
+        "word": "Forma",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Form",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Non",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Noun",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Garib",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Strange",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Singulari",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Singular",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Dopju",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Dual",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Plural",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Plural",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Aġent",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Someone or something which causes an effect",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Lokalita",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "Adjective",
+                "explanation": "Locational",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Post",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Place or location",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Verbalia",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Verbal",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Verb",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Verb",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Komuni",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Common",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Transitiv",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Transative",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Każativ",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Causative",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Refleksiv",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Reflexive",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kooperativ",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Cooperative",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Transformativ",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Transformative",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kurjuż",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Curious",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Descritiva",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Descriptive",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Adverbju",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Adverb",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Aġetiv",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Adjective",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
     }
 ]
