@@ -1,8 +1,7 @@
 # Alżapar Orthography: Latin Script
 
 The standard orthography for the language calls for the use of the Latin script.
-The following is the Latin alphabet for the language along with the names of the letters
-and their IPA mappings:
+The following is the Latin alphabet for the language along with IPA values for each letter:
 
 |   Letter   |   IPA   |
 |------------|---------|
