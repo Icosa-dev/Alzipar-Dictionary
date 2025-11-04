@@ -18,4 +18,5 @@ Nouns (regular and irregular) can take on affixes such as:
 |    Affix    |     Meaning              |
 |-------------|--------------------------|
 |    La-      |  Very little or none of  |
+|    Ser-     |  Very much or all of     |
 |    -ja      |  Land of or state of     |
