@@ -3058,7 +3058,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to being evil",
+                "explanation": "Relating to being evil or wicked",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3067,7 +3067,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to evil",
+                "explanation": "Relating to evil or wickedness",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3076,7 +3076,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "ADJECTIVE",
-                "explanation": "To be evil",
+                "explanation": "To be evil or wicked",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3112,7 +3112,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "D-B-N",
+        "word": "D-N-B",
         "uses": [
             {
                 "hasBadge": false,
@@ -3239,6 +3239,479 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "NOUN",
                 "explanation": "Community",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Fer",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Joy",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Leġi",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Law, Legislature",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "S-B-H",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to finding",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "M-D-T",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to meditating",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to meditation",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Hin",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Time",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Jum",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Day",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Lejla",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Night",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Tul",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PREPOSITION",
+                "explanation": "Besides or by",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "J-G-T",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to producing or yielding",
+                "example": "Example of this usage (in Imperius)",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "Example of this usage (Translation)"
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to products",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Frut",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Fruit",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Staġun",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Season",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Verna",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Spring",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Sajf",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Summer",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Awtun",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Autumn",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Inverno",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Winter",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "D-B-L",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to withering or decaying",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "One which is decayed or withered",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "W-R-Q",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to plant leaves",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kolu",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "All",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Hejn",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "None",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Prosperuż",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Prosperous",
+                "example": "Example of this usage (in Imperius)",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "Example of this usage (Translation)"
+            }
+        ]
+    },
+    {
+        "word": "Pula",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Chaff; the dry covering of a grain",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "D-F-Q",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to blowing",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to the wind",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "To be light; without much weight",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Tejn",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PREPOSITION",
+                "explanation": "Away",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Perzio",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "CONJUNCTION",
+                "explanation": "Hence, therefore",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Ġ-D-M",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to judging",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to judgement",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "To be just",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Fuq",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PREPOSITION",
+                "explanation": "Over/Upon",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kom",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "To lead",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "D-M-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to destroying",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to destruction",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "To be destroyed",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
