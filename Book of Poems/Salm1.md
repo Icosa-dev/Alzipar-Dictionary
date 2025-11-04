@@ -1,4 +1,4 @@
-# Salm 1 (Wada)
+# Al-Kitabun Aṡ-Ṡaharin Al-Ażaparin: Salm 1 (Wada)
 
 ## Alzapar
 1. Al-Persunaun al-barikin lajataraġalu dakun al-Muhżanan ju fi-jajqafa al-Tiraqun al-Namudnabin ju fi-jasdara al-Komunitaun al-Natirispetuzin.
