@@ -8,3 +8,9 @@ Given a root (1-2-3) and its general meaning (X) a noun may take the following f
 |    (D0)  |      N/A      |   Irregular non-rooted form            |     Forma (Deskritiva) Garib     |
 |    (D1)  |  1a23a        |   Adverb form                          |     Forma Adverbju               |
 |    (D2)  |  1a2i3        |   Adjective form                       |     Forma Aġetiv                 |
+
+Nouns (regular and irregular) can take on affixes such as: 
+|    Affix    |     Meaning                |
+|-------------|----------------------------|
+|    Nati-    |   To be the opposite of X  |
+|    Suba-    |   To be extreamly X        |
