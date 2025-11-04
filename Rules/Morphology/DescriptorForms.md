@@ -13,4 +13,5 @@ Nouns (regular and irregular) can take on affixes such as:
 |    Affix    |     Meaning                |
 |-------------|----------------------------|
 |    Nati-    |   To be the opposite of X  |
-|    Suba-    |   To be extreamly X        |
+|    Suba-    |   To be extremely X        |
+|    Subaka-  |   To be the most X         |
