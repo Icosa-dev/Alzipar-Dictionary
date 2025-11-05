@@ -1,7 +1,7 @@
 # Al-Kitabun Aṡ-Ṡaharin Al-Ażaparin: Aṡ-Ṡiharun Al-Lejlain Al-Nofsin As-Safoin
 
 ## Alzapar
-Satara al-Lunaun u al-Pliediun, <br>
+Satara al-Lunaun u al-Plihediun, <br>
 Al-Isaun al-Lejlain al-Nofsin, <br>
 Jaṡavaz hin, <br>
 Ima ma-jusnana mirun iżolat. <br>
