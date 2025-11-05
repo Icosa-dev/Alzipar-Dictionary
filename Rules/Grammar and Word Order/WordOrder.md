@@ -2,7 +2,7 @@
 
 The basic sentence structure of the formal literary language is that of VSO ("Ate sam apples"). However informal and common speech may often take the form of SVO ("Sam ate apples"). Adverbial phrases come after the object in both cases. For example a formal literary sentence may be *Jusmaka as-simakun aṡ-ṡivazan al-baridin* however in common speech it may be said as *As-simakun jusmaka aṡ-ṡivazan al-baridin*. Both translate to "The fish is swimming in the cold water".
 
-The internal order of descriptors is as follows:
+The internal order of descriptors generally should follow the format of:
 1. Quantity
 2. Head Noun
 3. Opinion or Evaluation
