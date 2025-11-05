@@ -1,19 +1,19 @@
 # Al-Kitabun Aṡ-Ṡaharin Al-Ażaparin: Aṡ-Ṡiharun Al-Lejlain Al-Nofsin As-Safoin
 
 ## Alzapar
-- Sadara al-Lunaun u al-Pliediun,
-- Isaun al-Lejlain al-Nofsin,
-- Jaṡavaz hin,
-- Ima ma-jusnana mirun iżolat.
+Satara al-Lunaun u al-Pliediun, <br>
+Isaun al-Lejlain al-Nofsin, <br>
+Jaṡavaz hin, <br>
+Ima ma-jusnana mirun iżolat. <br>
 
 ## Literal Translation
-- Sit-PRES the-moon-NOM and the-pleiades-NOM,
-- Time-NOM the-night-GEN the-middle-GEN,
-- Flowing-PRES time,
-- But with-sleep-PRES me-NOM alone.
+Set-PRES the-moon-NOM and the-pleiades-NOM, <br>
+Time-NOM the-night-GEN the-middle-GEN, <br>
+Flowing-PRES time, <br>
+But with-sleep-PRES me-NOM alone.
 
 ## Non-Literal Translation
-- The moon and the Pleiades have set,
-- it is midnight,
-- time is passing,
-- but I sleep alone.
+The moon and the Pleiades have set, <br>
+it is midnight, <br>
+time is passing, <br>
+but I sleep alone.
