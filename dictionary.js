@@ -3745,5 +3745,125 @@ externalDictionary = [
                 "exampleTranslation": ""
             }
         ]
+    },
+    {
+        "word": "Ibda",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Start",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Nofs",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Middle",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Tarman",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "End",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "S-N-N",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to sleeping",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to sleep",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADVERB",
+                "explanation": "In a lazy, lethargic manner",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "To be sleepy",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Iżolat",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADVERB",
+                "explanation": "Isolated, alone",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Isolated, alone",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "S-T-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to being set",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
     }
 ]
