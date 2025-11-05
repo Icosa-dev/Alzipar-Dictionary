@@ -1,6 +1,6 @@
 # Kitabun Aṡ-Ṡaharin Al-Ażaparin: Salm 1 (Wada)
 
-## Alzapar
+## Alżapar
 1. Al-Persunaun al-barikin lajataraġalu dakun al-Muhżanan ju fi-jajqafa Tiraqun al-Namudnabin ju fi-jasdara Komunitaun al-Natirispetuzin.
 2. Ima fi-Jusbaha minun feran Leġian al-Lahin u Jumdata minum alaj malan Leġin Juman u Lejlan.
 3. Talun Ṡaġirun tul-Ṡivazin u fi-jujgata dakun frutan Staġunan <br>

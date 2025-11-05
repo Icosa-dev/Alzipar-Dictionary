@@ -1,6 +1,6 @@
 # Kitabun Aṡ-Ṡaharin Al-Ażaparin: Ṡiharun Al-Lejlain Al-Nofsin Min-Safoin
 
-## Alzapar
+## Alżapar
 Satara al-Lunaun u al-Plihediun, <br>
 Al-Isaun al-Lejlain al-Nofsin, <br>
 Jaṡavaz hin, <br>
