@@ -8,7 +8,7 @@ Ima ma-jusnana mirun iżolat. <br>
 
 ## Literal Translation
 Set-PRES the-moon-NOM and the-pleiades-NOM, <br>
-Time-NOM the-night-GEN the-middle-GEN, <br>
+The-time-NOM the-night-GEN the-middle-GEN, <br>
 Flowing-PRES time, <br>
 But with-sleep-PRES me-NOM alone.
 
