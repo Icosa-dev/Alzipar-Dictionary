@@ -14,4 +14,4 @@ The internal order of descriptors is as follows:
 
 For example to describe "Three tasty large, fresh, black coffees" in the language would be *Tirah Kopiun Lakirin Kabirin Friskin Aswadin* which translates literally to "Three coffee tasty big fresh black".
 
-Prepositions are always put before and connected to a verb. For example the sentence "The fish swam towards the turtle" would be translated as *Lejn-sumaka al-Simakun al-Fekrunan* (literally: "Towards-swam the fish the turtle").
+Prepositions are always put before and connected to a verb. For example the sentence "The fish swam towards the turtle" would be translated as *Lejn-sumaka al-Simakun al-Fekrunan* (literally: "Towards-swam the fish the turtle"). The exception to this is when there is no verb.

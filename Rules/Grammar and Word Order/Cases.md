@@ -6,7 +6,7 @@ The nominative case (which is suffixed to a noun as "-un") marks the noun as bei
 
 The accusative case (which is suffixed to a noun as "-an") marks the noun as being part of the object of a clause. Unlike with languages like Latin or German there is no complementary dative case. This means both the direct and indirect object are marked with the accusative case.
 
-The genitive case (which is suffixed to a noun as "-in") marks the noun as being a quality of another and is put on nouns after prepositions. For example the English phrase "the capital of the republic" would be translated as "al-Kapitaliun ar-Republikin". The capital is the subject in this example and has the quality of being of the republic. There isn't actually a word for "of" in this case because its use is replaced by the genitive.
+The genitive case (which is suffixed to a noun as "-in") marks the noun as being a quality of another and is put on nouns after prepositions. For example the English phrase "the capital of the republic" would be translated as "Kapitaliun ar-Republikin". The capital is the subject in this example and has the quality of being of the republic. There isn't actually a word for "of" in this case because its use is replaced by the genitive. When replacing the use of "of" with the genitive the definite article is used on every genitive case word and not on the word being given quality. For example "the book of poetry" is translated to *Kitabun aṡ-Ṡaharin* and not *Al-Kitabun aṡ-Ṡaharin*.
 
 For example the sentence "I gave the boy the book of poetry". "I" is the subject of the sentence so it would be marked with the nominative case. "gave" is a verb and wouldn't be marked with a noun case. "the boy" and "the book" are both part of the object of the sentence. "of poetry" would have the noun "poetry" marked with the genitive case since it describes the quality of the book and is after the preposition "of".
 
@@ -20,6 +20,6 @@ So in all, after translating the phrases from English to Alżapar:
 |       Of Poetry  |      Aṡ-Ṡahar    |
 
 Then adding the case markers to each noun: Mi -> Miun, Al-Aben -> Al-Abenan, Al-Kitab -> Al-Kitaban, Aṡ-Ṡajarin. Then in proper order (VSO) the sentence would be translated as:
-*"Lutaha miun al-Abenan al-Kitaban Aṡ-Ṡaharin."*
+*"Lutaha miun al-Abenan Kitaban Aṡ-Ṡaharin."*
 
 It's common in speach to drop the n of the case markers. For example someone may say /kitabu/ instead of /kitabun/. 
