@@ -42,4 +42,6 @@ Diacritics are not required and in most cases shouldn't be. They are the only wa
 
 Sentences are seperated by full stops and words are seperated by spaces.
 
-Unlike with the Latin orthography the definitive article is always written as "اَلْـ" even when the Lam is silent. For example the word /alkitabun/ would be written as "اَلْكِتَبٌ" and the word /aʃivaʦun/ would be written as "اَلْشِڤَصٌ". It is also directly connected to the word it modifies. No "-" like with the Latin orthography.
+Unlike with the Latin orthography the definitive article is always written as "اَلْـ" even when the Lam is silent. For example the word /alkitabun/ would be written as "اَلْكِتَبٌ" and the word /aʃivaʦun/ would be written as "اَلْشِڤَصٌ".
+
+Words connected by "-" in Latin are written as one in the Arabic script.
