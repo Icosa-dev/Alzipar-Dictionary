@@ -1,6 +1,7 @@
-# Kitabun Aṡ-Ṡaharin Al-Ażaparin: Salm 1 (Wada)
+# Kitabun Aṡ-Ṡaharin Al-Ażaparin: Salmun 1 (Wada)
 
 ## Alżapar
+<<<<<<< HEAD
 1. Al-persunaun al-barikin lajataraġalu dakun al-muhżanan ju fi-jajqafa tiraqun al-namudnabin ju fi-jasdara komunitaun al-natirispetuzin.
 2. Ima fi-jusbaha minun feran leġian AL-LAHin u jumdata minum alaj malan jeġin juman u lejlan.
 3. Talun ṡaġirun tul-ṡivazin u fi-jujgata dakun frutan staġunan <br>
@@ -13,6 +14,20 @@
 5. Perzio fi-lasajajqafa al-muhżanun al-ġimatan laju namudnabun komunitan al-ġustin.
 6. Ki fuq-juvbana AL-LAHun tiraqan al-ġustin, <br>
    ima sakom tiraqun al-muhżanin damaran.
+=======
+1. Al-Persunaun al-barikin lajataraġalu dakun al-Muhżanan ju fi-jajqafa Tiraqun al-Namudnabin ju fi-jasdara Komunitaun al-Natirispetuzin.
+2. Ima fi-Jusbaha minun Feran Leġian al-Lahin u Jumdata minum alaj malan Leġin Juman u Lejlan.
+3. Talun Arboraun tul-Ṡivazin u fi-jujgata dakun Frutan Staġunan <br>
+   u lajudbala minun Wiraqan <br>
+   kolun talun jukfaza prosperużin.
+
+4. La al-Muhżanun! <br>
+   Talun Pulain <br>
+   tejn-judfaqa al-Difaqun.
+5. Perzio fi-lasajajqafa al-Muhżanun al-Ġimatan laju la-Namudnabun Komunitan al-Ġustin.
+6. Ki fuq-juvbana al-Lahun Tiraqan al-Ġustin, <br>
+   ima sakom Tiraqun al-Muhżanin Damaran.
+>>>>>>> 80ebb10e9a4152bbc8114906719deac726a1a2e6
 
 ## Literal Translation
 1. The-person-NOM the-blessed-GEN not-walk-with-PRES that-NOM the-wicked-ACC or in-stand-PRES path-NOM the-sinner-GEN or in-sit-PRES community-NOM the-not-respectful-GEN.
@@ -25,7 +40,7 @@
    They-NOM chaff-GEN <br>
    away-blow-PRES the-wind-NOM.
 5. Therefore in-not-will-stand the-wicked-NOM the-judgement-ACC nor the-sinners-NOM community-ACC the-just-GEN.
-6. Because over-watch-PRES the-god-NOM path-ACC the-just-GEN <br>
+6. Because over-watch-PRES the-god-NOM path-ACC the-just-GEN, <br>
    but will-lead path-NOM the-sinner-GEN destruction-ACC.
 
 
