@@ -2,7 +2,7 @@
 
 ## Alzapar
 Satara al-Lunaun u al-Pliediun, <br>
-Isaun al-Lejlain al-Nofsin, <br>
+Al-Isaun al-Lejlain al-Nofsin, <br>
 Jaṡavaz hin, <br>
 Ima ma-jusnana mirun iżolat. <br>
 
