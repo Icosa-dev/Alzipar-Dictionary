@@ -38,7 +38,7 @@ Vowels if written together are never pronounced together.
 
 If the vowel of an affix connects to the same vowel in the root they are pronounced together and written as the same vowel. The exception to this is with the case markers which do not assimilate.
 
-The letter *Hh* which makes no sound is used as a placeholder to follow the triconsonantal root patern. The letter *Ħħ* is the one which actually makes the English "h" sound.
+The letter *Hh* which makes no sound is used as a placeholder to follow the triconsonantal root patern. The letter *Ħħ* is the one which actually makes the English "h" sound. If initial the letter *Hh* can be dropped.
 
 The first letter of a sentence is capitalized. Proper nouns of great significance may be written in all caps. Sentences are seperated by full stops and words are seperated by spaces. The word before a conjunction will have a comma appended to it.
 
