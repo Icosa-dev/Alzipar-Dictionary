@@ -12,7 +12,8 @@ The following is the Latin alphabet for the language along with IPA values for e
 | Ff         |   /f/   |
 | Ġġ         |   /ʤ/   |
 | Gg         |   /g/   |
-| Hh         |   /h/   |
+| Hh         |   /ʔ/   |
+| Ħħ         |   /h/   |
 | Ii         |   /i/   |
 | Jj         |   /j/   |
 | Kk         |   /k/   |
@@ -31,7 +32,7 @@ The following is the Latin alphabet for the language along with IPA values for e
 | Żż         |   /z/   |
 | Zz         |   /ʦ/   |
 
-Words are spelled as they sound.
+Words are spelled as they sound. The letter *Hh* which makes no sound or the glottal stop if between vowels is used as a placeholder to follow the triconsonantal root patern. The letter *Ħħ* is the one which actually makes the English "h" sound.
 
 The first letter of a sentence is capitalized. Proper nouns of great significance may be written in all caps. Sentences are seperated by full stops and words are seperated by spaces. The word before a conjunction will have a comma appended to it.
 

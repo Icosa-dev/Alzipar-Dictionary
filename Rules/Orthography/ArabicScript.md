@@ -9,12 +9,14 @@ Although not the prefered script for writing the language. Alżapar can also be 
 |     پ      |   /p/   |
 |     ت      |   /t/   |
 |     ج      |   /ʤ/   |
+|     ح      |   /h/   |
 |     د      |   /d/   |
 |     ر      |   /r/   |
 |     ز      |   /z/   |
 |     س      |   /s/   |
 |     ش      |   /ʃ/   |
 |     ص      |   /ʦ/   |
+|     ع      |   /ʔ/   |
 |     غ      |   /g/   |
 |     ف      |   /f/   |
 |     ڤ      |   /v/   |
@@ -23,7 +25,6 @@ Although not the prefered script for writing the language. Alżapar can also be 
 |     ل      |   /l/   |
 |     م      |   /m/   | 
 |     ن      |   /n/   |
-|     ه      |   /h/   |
 |     و      |   /w/   |
 |     ي      |   /y/   |
 
