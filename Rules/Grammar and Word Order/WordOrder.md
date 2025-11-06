@@ -15,3 +15,5 @@ The internal order of descriptors generally should follow the format of:
 For example to describe "Three tasty large, fresh, black coffees" in the language would be *Tirah kopiun lakirin kabirin friskin aswadin* which translates literally to "Three coffee tasty big fresh black".
 
 Prepositions are always put before and connected to a verb. For example the sentence "The fish swam towards the turtle" would be translated as *Lejn-sumaka al-simakun al-fekrunan* (literally: "Towards-swam the fish the turtle"). The exception to this is when there is no verb.
+
+Adverbial phrases go before the verb of a sentence. For example the sentence "One day the dog ran" would be *Jumun karin ġaraha al-kalebun* (literally "Day-NOM arbitrary-GEN run-PAST the-dog-NOM").
