@@ -47,13 +47,3 @@ In informal writting the case markers can be excluded.
 If a word using the definite article begins with a sun consonant then the "l" is replaced with that consonant. For example "the water" would be translated as *aṡ-ṡivaz(un)*.
 
 The acute diacritic can be used on the vowel of a stressed sylable however this is uncommon. Most words will have the stress on the penultimate sylable: *kitábun, namudnábun, ṡivázun, baríkin, jaqáfa, jahmára, etc*. The main exception to this and primary reason to use it is for loan words such as *róża, persúna, rispét, komúnita, stáġun, etc*.
-
-The underdot diacritic is another optional Latin diacritic. It is used to signify that the letter is leftover from an Arabic loanword. For example the word *Jesba* comes from the Arabic word "إصبع" which uses the letter ص instead of the usual س. So for dictionaries or standards the word would be written as *Jeṣba*. The main use of this diacritic is to make Latin to Arabic transcription easier. The following are the Arabic letters and their corresponding underdotted letter: 
-
-|     Arabic     |     Latin    |
-|----------------|--------------|
-|       ص        |      Ṣṣ      |
-|       ض        |      Ḍḍ      |
-|       ط        |      Ṭṭ      |
-|       ظ        |      Ẓẓ      |
-|       ه        |      Ḥḥ      |

@@ -15,10 +15,7 @@ Although not the prefered script for writing the language. Alżapar can also be 
 |     ز      |   /z/   |
 |     س      |   /s/   |
 |     ش      |   /ʃ/   |
-|     ص      |   /s,ʦ/ |
-|     ض      |   /d/   |
-|     ط      |   /t/   |
-|     ظ      |   /z/   |
+|     ص      |   /ʦ/   |
 |     ع      |   N/A   |
 |     غ      |   /g/   |
 |     ف      |   /f/   |
@@ -28,7 +25,6 @@ Although not the prefered script for writing the language. Alżapar can also be 
 |     ل      |   /l/   |
 |     م      |   /m/   | 
 |     ن      |   /n/   |
-|     ه      |   /h/   |
 |     و      |   /w/   |
 |     ي      |   /y/   |
 
@@ -52,13 +48,3 @@ Sentences are seperated by full stops and words are seperated by spaces.
 Unlike with the Latin orthography the definitive article is always written as "اَلْـ" even when the Lam is silent. For example the word /alkitabun/ would be written as "اَلْكِتَبٌ" and the word /aʃivaʦun/ would be written as "اَلْشِڤَصٌ".
 
 Words connected by "-" in Latin are written as one in the Arabic script.
-
-The letters ص، ض، ط، ظ، ه are leftover from Arabic. They are used to write Arabic loan words. They are transcribed (optionally with the underdot) to Latin as follows:
-
-|     Arabic     |     Latin    |
-|----------------|--------------|
-|       ص        |      Ṣṣ      |
-|       ض        |      Ḍḍ      |
-|       ط        |      Ṭṭ      |
-|       ظ        |      Ẓẓ      |
-|       ه        |      Ḥḥ      |
