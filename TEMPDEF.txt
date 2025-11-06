@@ -1,7 +1,2 @@
 # This file is to hold temporary definitions which may or may not
 # be included in the official dictionary.
-
-Lah    - God
-Q-R-H  - Relating to reading
-Cara  - Dear
-Ġ-M-L - Relating to beauty
