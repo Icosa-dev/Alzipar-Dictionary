@@ -333,7 +333,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hawn",
+        "word": "Ħawn",
         "uses": [
             {
                 "hasBadge": false,
@@ -472,7 +472,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "M-H-F",
+        "word": "M-Ħ-F",
         "uses": [
             {
                 "hasBadge": false,
@@ -1399,7 +1399,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Himar",
+        "word": "Ħimar",
         "uses": [
             {
                 "hasBadge": false,
@@ -1441,7 +1441,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hisan",
+        "word": "Ħisan",
         "uses": [
             {
                 "hasBadge": false,
@@ -1525,7 +1525,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Nihal",
+        "word": "Niħal",
         "uses": [
             {
                 "hasBadge": false,
@@ -1539,7 +1539,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hanfasa",
+        "word": "Ħanfasa",
         "uses": [
             {
                 "hasBadge": false,
@@ -1567,7 +1567,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hiraṡ",
+        "word": "Ħiraṡ",
         "uses": [
             {
                 "hasBadge": false,
@@ -1688,7 +1688,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Halzul",
+        "word": "Ħalzul",
         "uses": [
             {
                 "hasBadge": false,
@@ -1954,7 +1954,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hundar",
+        "word": "Ħundar",
         "uses": [
             {
                 "hasBadge": false,
@@ -2275,7 +2275,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kooperativ",
+        "word": "Kohoperativ",
         "uses": [
             {
                 "hasBadge": false,
@@ -2755,7 +2755,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "H-M-R",
+        "word": "Ħ-M-R",
         "uses": [
             {
                 "hasBadge": false,
@@ -2828,7 +2828,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "D-H-B",
+        "word": "D-Ħ-B",
         "uses": [
             {
                 "hasBadge": false,
@@ -3052,7 +3052,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "H-Ż-N",
+        "word": "Ħ-Ż-N",
         "uses": [
             {
                 "hasBadge": false,
@@ -3232,7 +3232,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Komunita",
+        "word": "Komjunita",
         "uses": [
             {
                 "hasBadge": false,
@@ -3311,7 +3311,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hin",
+        "word": "Ħin",
         "uses": [
             {
                 "hasBadge": false,
@@ -3525,7 +3525,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hejn",
+        "word": "Ħejn",
         "uses": [
             {
                 "hasBadge": false,
@@ -3719,7 +3719,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Hafna",
+        "word": "Ħafna",
         "uses": [
             {
                 "hasBadge": false,
@@ -4024,7 +4024,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ohor",
+        "word": "Oħor",
         "uses": [
             {
                 "hasBadge": false,
@@ -4297,13 +4297,31 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Lah",
+        "word": "H-L-H",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to worship and deification",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
                 "type": "NOUN",
-                "explanation": "god (God if definite; AL-LAH)",
+                "explanation": "Relating to (G)od(s)",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "To be devine or godly",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
