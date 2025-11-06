@@ -4334,7 +4334,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Cara",
+        "word": "Kara",
         "uses": [
             {
                 "hasBadge": false,
