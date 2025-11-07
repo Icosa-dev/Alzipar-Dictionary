@@ -1,9 +1,9 @@
-# Kitabun Aṡ-Ṡaharin Al-Ażaparin: Ṡiharun Al-Lejlain Al-Nofsin Min-Safoin
+# Kitabun Aṡ-Ṡaharin Al-Ażaparin: Ṡiharun Al-Lejlain Al-Nofsin min-makama Safoun
 
 ## Alżapar
-Satara al-lunaun u al-plihediun, <br>
+Satara al-Lunaun u al-Plihediun, <br>
 al-isaun al-lejlain al-nofsin, <br>
-jaṡavaz hinun, <br>
+jaṡavaz ħinun, <br>
 ima ma-jusnana mirun iżolat. <br>
 
 ## Literal Translation

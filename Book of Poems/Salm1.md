@@ -1,32 +1,41 @@
 # Kitabun Aṡ-Ṡaharin Al-Ażaparin: Salmun 1 (Wada)
 
 ## Alżapar
-1. Al-persunaun al-barikin lajataraġalu dakun al-muhżanan ju fi-jajqafa tiraqun al-namudnabin ju fi-jasdara komunitaun al-natirispetuzin.
-2. Ima fi-jusbaha minun feran leġian AL-LAHin u jumdata minum alaj malan jeġin juman u lejlan.
-3. Talun ṡaġirun tul-ṡivazin u fi-jujgata dakun frutan staġunan <br>
-   u lajudbala minun wiraqan <br>
-   kolun talun jukfaza prosperużin.
 
-4. La al-muhżanun! <br>
-   Talun pulain <br>
-   tejn-judfaqa al-difaqun.
-5. Perzio fi-lasajajqafa al-muhżanun al-ġimatan laju namudnabun komunitan al-ġustin.
-6. Ki fuq-juvbana AL-LAHun tiraqan al-ġustin, <br>
-   ima sakom tiraqun al-muhżanin damaran.
+1. Al-persunaun al-barikin ma-lajurġala dakun al-namuħżinan, <br>
+   ju fi-jujqafa tiraqun al-namudnibin, <br>
+   ju fi-jasdara komjunitiun al-natirispetużin.
+2. Ima fi-leġun AL-LAHIN jasbaha minun feran, <br>
+   u jumun u lejlun fuq-jumdata minun leġian AL-LAHIN.
+3. Talun arborin tul-ṡivazin, <br>
+   lajadbala wiraqun minin, <br>
+   kolun talun jakfaza prosperużin.
+
+4. La al-namuħżinun! <br>
+   Talun pulain, <br>
+   tejn-jadfaqa al-difaqun.
+5. Perzio fi-lajujqafa al-namuħżinun al-ġidaman, <br>
+   laju fi-jujqafa al-namudnabun komjunitian al-ġadim.
+6. Ki fuq-juvbana AL-LAHUN tiqanan al-ġidam, <br>
+   Ima lejn-kom tiqanun al-namuħżinin dimaran.
 
 ## Literal Translation
-1. The-person-NOM the-blessed-GEN not-walk-with-PRES that-NOM the-wicked-ACC or in-stand-PRES path-NOM the-sinner-GEN or in-sit-PRES community-NOM the-not-respectful-GEN.
-2. But in-find-PRES who-NOM joy-ACC law-ACC the-god-GEN and meditate-PRES who-NOM on he law-GEN day-ACC and night-ACC.
-3. They-NOM tree-NOM by-water-GEN and in-yield-PRES that-NOM fruit-ACC season-ACC <br>
-   and not-wither-PRES who-NOM leaf-ACC <br>
-   all they-NOM do-PRES prosperous-GEN.
+1. The-person-NOM the-blessed-GEN with-not-walk-PRES who-NOM the-evil-ACC, <br>
+   or in-stand path-NOM the-sinners-GEN, <br>
+   or in-sit community-NOM the-not-respectful-GEN.
+2. But in-law THE-GOD-GEN find-PRES he-NOM joy-ACC, <br>
+   and day-NOM and night-NOM upon-meditates-PRES he-NOM law THE-GOD-GEN.
+3. They-NOM tree-GEN beside-water-GEN, <br>
+   not-wither-PRES leave-NOM who-GEN, <br>
+   all-NOM they-NOM do-PRES prosperous-GEN.
 
-4. Not the-wicked-NOM! <br>
-   They-NOM chaff-GEN <br>
-   away-blow-PRES the-wind-NOM.
-5. Therefore in-not-will-stand the-wicked-NOM the-judgement-ACC nor the-sinners-NOM community-ACC the-just-GEN.
-6. Because over-watch-PRES the-god-NOM path-ACC the-just-GEN, <br>
-   but will-lead path-NOM the-sinner-GEN destruction-ACC.
+4. Not the-wicked! <br>
+   They-NOM chaff, <br>
+   away-blow the-wind-NOM.
+5. Therefore in-stand-PRES the-evil-NOM the-judgement-ACC, <br>
+   nor in-stand-PRES the-sinners-NOM community-ACC the-just-GEN.
+6. But upon-watch-PRES THE-GOD-NOM path-ACC the-just-GEN,
+   but towards-lead-PRES path-NOM the-wicked-GEN destruction-ACC.
 
 
 ## Non-literal Translation
