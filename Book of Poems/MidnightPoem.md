@@ -7,10 +7,10 @@ jaṡavaz ħinun,                  <br>
 ima ma-jusnana miun iżolatin.
 
 ## Alżapar (Arabic Orthograhy)
-سَتَارَ الْلُنَاٌ و الْــــپْلِعَدِيٌ         <br>
-الْاِسَاٌ الْـــــلِيلَاٍ الْنُوفْسٍ           <br>
-يَشَــــــــــــــــــــاڤَصْ حِينٌ   <br>
-اِمَا مَيُسْنَانَ مِيٌ اِزُلَاتٍ               <br>
+سَتَارَ الْلُنَاٌ و الْپْلِعَدِيٌ  <br>
+الْاِسَاٌ الْلِيلَاٍ الْنُوفْسٍ     <br>
+يَشَاڤَصْ حِينٌ              <br>
+اِمَا مَيُسْنَانَ مِيٌ اِزُلَاتٍ    <br>
 
 ## Literal Translation
 Set-PRES the-moon-NOM and the-pleiades-NOM, <br>
