@@ -45,5 +45,3 @@ The first letter of a sentence is capitalized. Proper nouns are also capitalized
 In informal writting the case markers can be excluded.
 
 If a word using the definite article begins with a sun consonant then the "l" is replaced with that consonant. For example "the water" would be translated as *aṡ-ṡivaz(un)*.
-
-The acute diacritic can be used on the vowel of a stressed sylable however this is uncommon. Most words will have the stress on the penultimate sylable: *kitábun, namudnábun, ṡivázun, baríkin, jaqáfa, jahmára, etc*. The main exception to this and primary reason to use it is for loan words such as *róża, persúna, rispét, komúnita, stáġun, etc*.
