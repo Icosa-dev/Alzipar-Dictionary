@@ -14,3 +14,7 @@ Fenz  - fence
 Ġ-R-H - relating to running
 S-J-D - relating to help or aid
 k-f-h - relating to standards (kafih meaning to be enough or up to standards)
+Nord  - north
+Sud   - south
+Ist   - east
+Vest  - west

@@ -2,8 +2,8 @@
 
 ## Alżapar
 
-1. Al-persunaun al-barikin ma-lajurġala dakun al-namuħżinan, <br>
-   ju fi-jujqafa tiraqun al-namudnibin, <br>
+1. Al-persunaun al-barikin ma-lajurġala dakun al-muħżiniman, <br>
+   ju fi-jujqafa tiraqun al-mudnibimin, <br>
    ju fi-jasdara komjunitiun al-natirispetużin.
 2. Ima fi-leġun AL-LAHIN jasbaha minun feran, <br>
    u jumun u lejlun fuq-jumdata minun leġian AL-LAHIN.
@@ -11,13 +11,13 @@
    lajadbala wiraqun minin, <br>
    kolun talun jakfaza prosperużin.
 
-4. La al-namuħżinun! <br>
+4. La al-muħżinimun! <br>
    Talun pulain, <br>
    tejn-jadfaqa al-difaqun.
-5. Perzio fi-lajujqafa al-namuħżinun al-ġidaman, <br>
-   laju fi-jujqafa al-namudnabun komjunitian al-ġadim.
+5. Perzio fi-lajujqafa al-muħżinimun al-ġidaman, <br>
+   laju fi-jujqafa al-mudnabimun komjunitian al-ġadim.
 6. Ki fuq-juvbana AL-LAHUN tiqanan al-ġidam, <br>
-   Ima lejn-kom tiqanun al-namuħżinin dimaran.
+   Ima lejn-kom tiqanun al-muħżinimin dimaran.
 
 ## Literal Translation
 1. The-person-NOM the-blessed-GEN with-not-walk-PRES who-NOM the-evil-ACC, <br>

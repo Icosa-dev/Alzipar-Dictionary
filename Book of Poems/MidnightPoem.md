@@ -1,10 +1,16 @@
 # Kitabun Aṡ-Ṡaharin Al-Ażaparin: Ṡiharun Al-Lejlain Al-Nofsin min-makama Safoun
 
-## Alżapar
-Satara al-Lunaun u al-Plihediun, <br>
-al-isaun al-lejlain al-nofsin, <br>
-jaṡavaz ħinun, <br>
-ima ma-jusnana mirun iżolat. <br>
+## Alżapar (Latin Orthography)
+Satara al-Lunaun u al-Plihediun,<br>
+al-isaun al-lejlain al-nofsin,  <br>
+jaṡavaz ħinun,                  <br>
+ima ma-jusnana miun iżolatin.
+
+## Alżapar (Arabic Orthograhy)
+سَتَارَ الْلُنَاٌ و الْــــپْلِعَدِيٌ         <br>
+الْاِسَاٌ الْـــــلِيلَاٍ الْنُوفْسٍ           <br>
+يَشَــــــــــــــــــــاڤَصْ حِينٌ   <br>
+اِمَا مَيُسْنَانَ مِيٌ اِزُلَاتٍ               <br>
 
 ## Literal Translation
 Set-PRES the-moon-NOM and the-pleiades-NOM, <br>
