@@ -10,7 +10,9 @@ Given a root (1-2-3) and its general meaning (X) a noun may take the following f
 |    (N2)  |  1u2a3        |   Dual noun form                       |     Forma Dopju           |
 |    (N3)  |  1u2u3        |   Plural noun form                     |     Forma Plural          |
 |    (N4)  |  Mu12i3       |   Someone who does (X)                 |     Forma Aġent Singulari |
-|    (N5)  |  Ma12a3       |   Place where (x) is done              |     Forma Lokalita        |
+|    (N5)  |  Mu12i3im     |   Plural of agent form                 |     Forma Aġent Plural    |
+|    (N6)  |  Ma12a3       |   Place where (x) is done              |     Forma Lokalita        |
+|    (N7)  |  Ma12a3im     |   Plural of locational form            |     Forma Lokalita Plural |
 
 Note that form (N1) is split. (N1) is special in the fact that it can refer to both material (Forma Materjal Singulari) and abstract (Forma Astrat Singulari) nouns. For example the root Ṡ-H-R when used in the context of nouns means poetry or poems. Poetry as an abstract concept is represented with the abstract form *ṡahar* while a poem is represented with the material form *ṡihar*. Some roots may have both forms defined, some may have only one or the other. 
 
@@ -21,5 +23,4 @@ Nouns (regular and irregular) can take on affixes such as:
 |    Ser-     |  Very much or all of                                     |
 |    -ja      |  Land of or state of                                     |
 |    -i       |  Plural                                                  |
-|    na-      |  Plural prefix used if suffix or noun form can't be used |
-|    -a       |  Singular                                                |
+|    -a       |  (If a word ends in -i) Singular                         |
