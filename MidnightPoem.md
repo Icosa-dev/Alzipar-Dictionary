@@ -1,4 +1,4 @@
-# Kitabun Aṡ-Ṡaharin Al-Ażaparin: Ṡiharun Al-Lejlain Al-Nofsin min-makama Safoun
+# Kitabun Aṡ-Ṡaharin Al-Ażaparin: Ṡiharun Al-Lejlain Al-Nofsin min-makama Safoin
 
 ## Alżapar (Latin Orthography)
 Satara al-Lunaun u al-Plihediun,<br>
@@ -13,10 +13,10 @@ ima ma-jusnana miun iżolatin.
 اِمَا مَيُسْنَانَ مِيٌ اِزُلَاتٍ    <br>
 
 ## Literal Translation
-Set-PRES the-moon-NOM and the-pleiades-NOM, <br>
+Set-PAST the-moon-NOM and the-pleiades-NOM, <br>
 The-time-NOM the-night-GEN the-middle-GEN, <br>
 Flowing-PRES time-NOM, <br>
-But with-sleep-PRES me-NOM alone.
+But with-sleep-PRES me-NOM alone-GEN.
 
 ## Non-Literal Translation
 The moon and the Pleiades have set, <br>
