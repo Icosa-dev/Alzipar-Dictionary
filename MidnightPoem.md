@@ -1,5 +1,3 @@
-# Kitabun Aṡ-Ṡaharin Al-Ażaparin: Ṡiharun Al-Lejlain Al-Nofsin min-makama Safoin
-
 ## Alżapar (Latin Orthography)
 Satara al-Lunaun u al-Plihediun,<br>
 al-isaun al-lejlain al-nofsin,  <br>

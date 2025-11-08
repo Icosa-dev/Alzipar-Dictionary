@@ -14,6 +14,8 @@ Given a root (1-2-3) and its general meaning (X) a verb may take the following f
 |   (V6)   |          I12a3a            |      Jai12a3a     |   To become X                   | Forma Transformativ    |
 |   (V7)   |          Ista12a3a         |      Jasta12a3a   |   To ask to do X                | Forma Kurjuż           |
 
+The first form can also act as an infinitive form.
+
 Beyond the past and present tense are the future and perfect tense which can be achieved by taking the past tense form and adding the "sa-" or "ma-" prefix respectively.
 
 Verbs (regular and irregular) can take on affixes such as: 

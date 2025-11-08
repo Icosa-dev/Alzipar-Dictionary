@@ -1,20 +1,2 @@
 # This file is to hold temporary definitions which may or may not
 # be included in the official dictionary.
-
-H-D-J - relating to hearing
-S-R-K - relating to screaming
-B-R-K - relating to crying
-Kar   - something as arbitrary. Ex: Jum karin ("some day" or "one day") Kilab karin ("some dog")
-S-Q-T - relating to falling
-REDEFINE AZIM TO ALSO MEAN BIG
-CHANGE H TO BARRED H AND OTHER THINGS AHHGHGHHG
-Ż-K-L - relating to crawling
-Sab   - preposition for under
-Fenz  - fence
-Ġ-R-H - relating to running
-S-J-D - relating to help or aid
-k-f-h - relating to standards (kafih meaning to be enough or up to standards)
-Nord  - north
-Sud   - south
-Ist   - east
-Vest  - west
