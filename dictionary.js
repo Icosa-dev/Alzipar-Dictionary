@@ -1590,7 +1590,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Libehlulá",
+        "word": "Libehlúla",
         "uses": [
             {
                 "hasBadge": false,
@@ -1641,7 +1641,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Nakolá",
+        "word": "Nakóla",
         "uses": [
             {
                 "hasBadge": false,
