@@ -4292,7 +4292,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fávrit",
+        "word": "Favrít",
         "uses": [
             {
                 "hasBadge": false,
