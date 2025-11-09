@@ -46,4 +46,4 @@ In informal writting the case markers can be excluded.
 
 If a word using the definite article begins with a sun consonant then the "l" is replaced with that consonant. For example "the water" would be translated as *aṡ-ṡivaz(un)*.
 
-The acute accent can be used to mark which vowel is elongated in a word. However this is not required as vowel elongation is generally very regular.
+The acute accent can be used to mark which vowel is elongated in a word. However this is not required as vowel elongation is generally very regular. If used, it tends to only be used on polysylabic words and once. The exception is for compound words. For example *Kitabami* would have elongation on both the *a* of *Kitab* and *i* of *mi*. Hence, *Kitábamí*.
