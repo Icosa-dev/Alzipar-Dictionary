@@ -6675,7 +6675,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Gazal",
+        "word": "Gażal",
         "uses": [
             {
                 "hasBadge": false,
