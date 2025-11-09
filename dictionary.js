@@ -1180,11 +1180,11 @@ externalDictionary = [
             {
                 "hasBadge": false,
                 "badgeText": "",
-                "type": "WORD TYPE",
-                "explanation": "Explain usage here.",
-                "example": "Example of this usage (in Imperius)",
+                "type": "NOUN",
+                "explanation": "Brother",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "Example of this usage (Translation)"
+                "exampleTranslation": ""
             }
         ]
     },
