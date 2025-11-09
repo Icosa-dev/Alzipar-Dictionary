@@ -6,13 +6,13 @@ Given a root (1-2-3) and its general meaning (X) a verb may take the following f
 |   Form   |   Past Tense (Default)     |   Present Tense   |   Meaning                       |   Form Name            |
 |----------|----------------------------|-------------------|---------------------------------|------------------------|
 |   (V0)   |           N/A              |        N/A        |   Irregular non-rooted verb     | Forma (Verbali) Garib  |
-|   (V1)   |          1a2a3a            |      Ja12a3a      |   To do X                       | Forma Komuni           | 
-|   (V2)   |          1u2a3a            |      Ju12a3a      |   To do X unto something        | Forma Transitiv        |
-|   (V3)   |          A12a3a            |      Ju12i3u      |   To make someone do X          | Forma Każativ          |
-|   (V4)   |          Ta1a2a3a          |      Jata1a2a3a   |   To do X unto oneself          | Forma Refleksiv        |
-|   (V5)   |          Ta1a2a3u          |      Jata1a2a3u   |   To do X unto one another      | Forma Kooperativ       |
-|   (V6)   |          I12a3a            |      Jai12a3a     |   To become X                   | Forma Transformativ    |
-|   (V7)   |          Ista12a3a         |      Jasta12a3a   |   To ask to do X                | Forma Kurjuż           |
+|   (V1)   |          1a2á3a            |      Ja12á3a      |   To do X                       | Forma Komuni           | 
+|   (V2)   |          1u2á3a            |      Ju12á3a      |   To do X unto something        | Forma Transitiv        |
+|   (V3)   |          A12á3a            |      Ju12í3u      |   To make someone do X          | Forma Każativ          |
+|   (V4)   |          Ta1a2á3a          |      Jata1a2á3a   |   To do X unto oneself          | Forma Refleksiv        |
+|   (V5)   |          Ta1a2á3u          |      Jata1a2á3u   |   To do X unto one another      | Forma Kooperativ       |
+|   (V6)   |          I12á3a            |      Jai12á3a     |   To become X                   | Forma Transformativ    |
+|   (V7)   |          Ista12á3a         |      Jasta12á3a   |   To ask to do X                | Forma Kurjuż           |
 
 The first form can also act as an infinitive form.
 
