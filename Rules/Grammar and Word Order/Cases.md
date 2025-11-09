@@ -22,3 +22,5 @@ So in all, after translating the phrases from English to Alżapar:
 Then adding the case markers to each noun and putting them in proper order (VSO) the sentence would be translated as: *Lutaha miun al-abenan kitaban aṡ-ṡaharin.* which literally translates to "give-PAST me-NOM the-boy-ACC book-ACC the-poetry-GEN".
 
 It's common in speach to drop the n of the case markers. For example someone may say /kitabu/ instead of /kitabun/. 
+
+Case markers are not used in titles or dictionary entries of a word since they change depending on the context of the sentence.

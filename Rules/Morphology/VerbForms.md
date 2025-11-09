@@ -22,7 +22,6 @@ Verbs (regular and irregular) can take on affixes such as:
 |   Affix   |          Meaning          |
 |-----------|---------------------------|
 |    Ro-    |   To do again             |
-|    La-    |   To not do               |
 |    Ka-    |   To do the opposite      |
 |    Mo-    |   To do too much of       |
 |    Ser-   |   To do more of           |

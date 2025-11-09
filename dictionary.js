@@ -325,7 +325,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "ADVERB/ADJECTIVE",
-                "explanation": "Negation",
+                "explanation": "Negation or no",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2057,7 +2057,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "ADVERB",
-                "explanation": "Agreement",
+                "explanation": "Agreement or yes",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5159,6 +5159,373 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "ADVERB",
                 "explanation": "In a well though out manner",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Z-T-R",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to apologizing",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to apologies",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "One who is sorry; apologetic ",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "B-T-L",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to being sincerely apologetic for one's own actions",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "H-T-F",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to being sympathetic",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Empatija",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Empathy",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Empatize",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "To empathize or be empathetic",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Salam Alajtu",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "(Literally: peace upon you) standard formal greeting and farewell",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "U Alajtu Salam",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "(Literally: and upon you peace) standard response to formal greeting or farewell",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Alu",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "Informal greeting",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Adu",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "Informal farewell",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Tṡus",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "Informal farewell",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Merħaba",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "(You are) Welcome(d)",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "R-Ħ-B",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to greeting",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to greetings",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Dwar",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PREPOSITION",
+                "explanation": "On the subject of ",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Matina",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Morning",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Żerniq",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Dawn",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Meridja",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Noon",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Kejf",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADVERB",
+                "explanation": "In what manner; how?",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Żożo",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "To feel fine, so-so",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "K-D-M",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to serving ",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Relating to services",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "One who is in service",
+                "example": "Example of this usage (in Imperius)",
+                "gloss": "help-less-ness",
+                "exampleTranslation": "Example of this usage (Translation)"
+            }
+        ]
+    },
+    {
+        "word": "Fi-diżaratu",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "(Literally: in your desire) formal please",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Fi-kidamatu",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "(Literally: in your service) formal response to thanks",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "La problema",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "PHRASE",
+                "explanation": "(Literally: no problem) informal response to thanks",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Delam",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Dusk or Twilight",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
