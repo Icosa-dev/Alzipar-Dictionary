@@ -1,32 +1,3 @@
 # This file is to hold temporary definitions which may or may not
 # be included in the official dictionary.
 
-D-H-T:   Relating to one's self
-S-H-D:   Relating to joy
-Eksitat: Excited
-Eksita:  To excite
-Eksitament: Excitement
-M-L-S: Relating to relief
-F-K-R: Relating to pride
-T-H-M: Relating to hope
-Meravilja: Wonder or awe
-N-K-T: Relating to sadness or sorrow
-K-R-L: Relating to anger or rage
-B-Ż-H: Relating to fear
-T-R-D: Relating to disgust or repulsion
-W-R-B: Relating to removing or abolishing
-Diżapunta: To disapoint
-Diżapuntat: Disapointed
-D-L-R: Relating to grief or mourning
-Irita: To irritate
-Iritat: Irritated
-K-L-P: Relating to guilt or remorse
-Ħ-R-D: Relating to jelousy or envy
-Iżolament: Loneliness or isolation
-Iżola: To isolate
-Ħ-T-Q: Relating to yearning
-Ħ-L-M: Relating to both sadness and joy, bittersweet
-T-B-K: Relating to confusement
-Ħ-R-B: Relating to conflict or war
-Fortuna: Luck or fortune
-Nafortuna: Bad luck or misfortune
