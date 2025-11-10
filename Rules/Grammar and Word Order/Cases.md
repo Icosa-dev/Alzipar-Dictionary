@@ -12,9 +12,19 @@ A noun is in the accusative case if it is part of the object of a clause. If a a
 
 ## Genitive Case
 
-A noun or adjective is in the genitive case if it directly follows a preposition. An example of its use with prepositions is *fi al-bajtĩ* which means "in the house".
+The genitive case has 4 uses:
+1) To mark a noun as being directly after a preposition
+2) To mark a noun as being owned by the nown before it
+3) To mark a noun or adjective as being a quality of the noun before it
+4) To mark a noun as being part of an adverbial phrase
 
-The genitive case is also used to mark a noun as being a quality or owned by the noun before it. An example of its use with quality is *Babũ al-bajtĩ* which means "the house's door" or more literally "door (of) the house". In this case of description the noun being described is never definite however the words describing it are.
+The first use is self explainatory. If a noun directly follows a preposition it is put in the genitive case. For example *Fi al-bajtĩ* (meaning "in the house") has the word *bajt* in the genitive case because it is directly after the preposition *fi*.
+
+The second use is to mark a noun being owned by another. For example to say "the republic's capital" you would say *kapitálũ ar-republíkĩ* (literally: "capital (of) the republic"). In this case if the word which owns is in the definite form then the words in the genitive case get the *al-* article and not the word itself.
+
+The third use is to mark a noun or adjective as being a quality of the noun before it. For example to say "the blue sky" you would say *as-símahũ az-zaríqĩ* (literally: "the sky the blue"). 
+
+The fourth and final use is to mark a noun as being part of an adverbial phrase. That is to say, describing a verb. For example to say "one day I walked to the store" you would say *Jumĩ karĩ lejn ruġála miũ al-ħażnáã* (literally: "Day arbitrary to walked me the store"). In this case the noun *Jum* (day) is describing the verb and as such is put in the genitive case.
 
 ## Example
 
