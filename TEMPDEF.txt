@@ -1,2 +1,4 @@
 # This file is to hold temporary definitions which may or may not
 # be included in the official dictionary.
+
+Bab - door
