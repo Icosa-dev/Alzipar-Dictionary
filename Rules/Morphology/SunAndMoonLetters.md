@@ -1,4 +1,4 @@
-# Alżapar Morphology: Sun and Moon Letters
+# Alzapar Morphology: Sun and Moon Letters
 
 Much like Arabic and Maltese, Alżapar makes the distinction of Sun consonants (*Konsonáti As-Sól*) and Moon consonants (*Konsonáti Al-Luná*). Their distinction arrises from how they modify the definite article *al-*.
 

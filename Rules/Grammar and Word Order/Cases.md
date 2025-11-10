@@ -1,4 +1,4 @@
-# Alżapar Grammar: Noun Cases
+# Alzapar Grammar: Noun Cases
 
 Nouns can take 3 case markers: Nominative, accusative, and genitive. The case of a noun relates to it's function in the clause as either the subject or object. The subject is the part of the clause which does the verb. The object is the part of the clause which the verb is being done onto. All clauses will have subjects but not all will have objects. 
 

@@ -1,4 +1,4 @@
-# Alżapar Morphology: Noun Forms
+# Alzapar Morphology: Noun Forms
 
 Nouns can also be created via roots moddified with transfix forms. However it is much more common to have nouns which exist alone not connected to any root. As with verbs not every root may have every form defined. 
 

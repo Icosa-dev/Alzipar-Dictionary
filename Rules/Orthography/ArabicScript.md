@@ -1,6 +1,6 @@
-# Alżapar Orthography: Arabic Script
+# Alzapar Orthography: Arabic Script
 
-Although not the prefered script for writing the language. Alżapar can also be written in the Arabic script with much ease. The following is the Arabic alphabet for the language along with IPA values for each letter.
+Although not the prefered script for writing the language. Alzapar can also be written in the Arabic script with much ease. The following is the Arabic alphabet for the language along with IPA values for each letter.
 
 |   Letter   |   IPA       |
 |------------|-------------|

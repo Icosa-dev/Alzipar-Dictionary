@@ -1,4 +1,4 @@
-# Alżapar Morphology: Descriptor Forms
+# Alzapar Morphology: Descriptor Forms
 
 Descriptive words which describe the quality of nouns or verbs are also able to be formed with transfix forms of their own. 
 

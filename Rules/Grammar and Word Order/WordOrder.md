@@ -1,4 +1,4 @@
-# Alżapar Grammar: Word Order
+# Alzapar Grammar: Word Order
 
 The basic sentence structure of the formal literary language is that of Verb-Subject-Object. For example an English sentence with all components (verb, subject, and object) would "Sam ate apples". Where Sam is the subject (the one doing the action), ate is the verb (the action itself), and apples are the object (the one(s) recieving the action). The order of Alżapar however would make the sentence "ate Sam apples". That example sentence translated being "ukála Samũ meláã". 
 

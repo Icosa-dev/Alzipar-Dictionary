@@ -1,4 +1,4 @@
-# Alżapar Morphology: Verb Forms
+# Alzapar Morphology: Verb Forms
 
 Verbs of the core vocabulary take triconsonantal form. That is to say they have a 3 consonant root (1-2-3) which is then affixed and transfixed to create new verbs. Not every verb in the language is triconsonantal. Not every root may have every form defined. And nouns, esspecially loan nouns, will tend to stray from the predefined roots.
 
