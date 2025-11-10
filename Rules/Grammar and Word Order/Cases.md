@@ -12,7 +12,7 @@ A noun is in the accusative case if it is part of the object of a clause, both d
 
 ## Genitive Case
 
-A noun or adjective is in the genitive case if it follows a preposition. The genitive case is also used to mark a noun as being a quality or owned by the noun before it. An example of its use with prepositions is *fi al-bajtĩ* which means "in the house". An example of its use with quality is *Babũ al-bajtĩ* which means "the house's door" or more literally "door (of) the house". In this case of description the noun being described is never definite however the words describing it are.
+A noun or adjective is in the genitive case if it directly follows a preposition. The genitive case is also used to mark a noun as being a quality or owned by the noun before it. An example of its use with prepositions is *fi al-bajtĩ* which means "in the house". An example of its use with quality is *Babũ al-bajtĩ* which means "the house's door" or more literally "door (of) the house". In this case of description the noun being described is never definite however the words describing it are.
 
 ## Example
 
