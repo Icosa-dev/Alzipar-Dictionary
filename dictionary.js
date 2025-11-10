@@ -2769,15 +2769,6 @@ externalDictionary = [
             {
                 "hasBadge": false,
                 "badgeText": "",
-                "type": "VERB",
-                "explanation": "Relating to being passionate or angry",
-                "example": "",
-                "gloss": "help-less-ness",
-                "exampleTranslation": ""
-            },
-            {
-                "hasBadge": false,
-                "badgeText": "",
                 "type": "NOUN",
                 "explanation": "The color red or passion and anger",
                 "example": "",
@@ -4162,13 +4153,22 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ikél",
+        "word": "H-K-L",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
+                "type": "VERB",
+                "explanation": "Relating to eating",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Food",
+                "explanation": "Relating to food",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6691,6 +6691,57 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "NOUN",
                 "explanation": "A type of poetry which emphasizes romance",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Bab",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Door",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Mela",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Apple",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Pala",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Ball",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Ball shaped",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
