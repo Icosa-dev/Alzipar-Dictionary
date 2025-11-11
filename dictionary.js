@@ -432,7 +432,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to writing",
+                "explanation": "To write",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -473,7 +473,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to being. Only used outside of the present tense.",
+                "explanation": "To be. Only used outside of the present tense.",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -487,7 +487,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to having",
+                "explanation": "To have",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -501,7 +501,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to doing",
+                "explanation": "To do",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -515,7 +515,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to going.",
+                "explanation": "To go",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -529,7 +529,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to coming; arriving",
+                "explanation": "To come",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -543,7 +543,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to making",
+                "explanation": "To make",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -557,7 +557,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to recieving",
+                "explanation": "To recieve",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -571,7 +571,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to seeing; watching",
+                "explanation": "To see, watch, or observe",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -585,7 +585,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to speaking",
+                "explanation": "To speak",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -608,7 +608,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to knowing",
+                "explanation": "To know",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -622,7 +622,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to wanting; desiring",
+                "explanation": "To want; desire",
                 "example": "Example of this usage (in Imperius)",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "Example of this usage (Translation)"
@@ -636,7 +636,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to needing; requiring",
+                "explanation": "To need; require",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -650,7 +650,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to growing",
+                "explanation": "To grow",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -664,7 +664,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to thinking",
+                "explanation": "To think",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -678,7 +678,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to liking",
+                "explanation": "To like",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -692,7 +692,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to loving",
+                "explanation": "To love",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -706,7 +706,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to flowing",
+                "explanation": "To flow",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -1279,7 +1279,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to swimming",
+                "explanation": "To swim",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -1610,7 +1610,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to flying",
+                "explanation": "To fly",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2025,7 +2025,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to safe, unharmed, at peace",
+                "explanation": "To make safe, unharmed, at peace",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2374,7 +2374,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to giving",
+                "explanation": "To give",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2397,7 +2397,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to feeling or perception",
+                "explanation": "To feel or perceive",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2518,7 +2518,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to tasting",
+                "explanation": "To taste",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2550,7 +2550,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to growing or being important",
+                "explanation": "To grow or become important",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2624,7 +2624,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to having color",
+                "explanation": "To color",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2665,7 +2665,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to having peace or purity",
+                "explanation": "To make at peace or pure",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2706,7 +2706,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to darkening or shading",
+                "explanation": "To darken or shade",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2738,7 +2738,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to becoming lush and alive",
+                "explanation": "To make lush or alive",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2793,7 +2793,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to becoming blue or trustworthy",
+                "explanation": "To make blue or trustworthy",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2834,7 +2834,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to becoming enlightened",
+                "explanation": "To make enlightened",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2944,7 +2944,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to walking",
+                "explanation": "To walk",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2985,7 +2985,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to becoming a woman",
+                "explanation": "To make feminine",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3026,7 +3026,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to being blessed",
+                "explanation": "To bless",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3058,7 +3058,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to being evil or wicked",
+                "explanation": "To make evil or wicked",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3090,7 +3090,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to standing",
+                "explanation": "To stand",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3118,7 +3118,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to sinning",
+                "explanation": "To sin",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3150,7 +3150,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to sitting",
+                "explanation": "To sit",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3164,7 +3164,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to mocking",
+                "explanation": "To mock",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3280,7 +3280,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to finding",
+                "explanation": "To find",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3294,7 +3294,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to meditating",
+                "explanation": "To meditate",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3373,7 +3373,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to producing or yielding",
+                "explanation": "To produce or yield",
                 "example": "Example of this usage (in Imperius)",
                 "gloss": "help-less-ness",
                 "exampleTranslation": "Example of this usage (Translation)"
@@ -3480,7 +3480,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to withering or decaying",
+                "explanation": "To wither or decay",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3573,7 +3573,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to blowing",
+                "explanation": "To blow",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3633,7 +3633,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to judging",
+                "explanation": "To judge",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3693,7 +3693,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to destroying",
+                "explanation": "To destroy",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3795,7 +3795,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to sleeping",
+                "explanation": "To sleep",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3859,7 +3859,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to being set",
+                "explanation": "To set",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3873,7 +3873,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to thanking",
+                "explanation": "To thank",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3919,7 +3919,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to shrinking or becoming small, unimportant",
+                "explanation": "To shrink or becoming small, unimportant",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3965,7 +3965,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to pushing or paying",
+                "explanation": "To push or pay",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3979,7 +3979,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to pulling",
+                "explanation": "To pull",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3993,7 +3993,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to shoving",
+                "explanation": "To shove",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4044,7 +4044,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to rolling",
+                "explanation": "To roll",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4058,7 +4058,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to cleaning",
+                "explanation": "To clean",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4090,7 +4090,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to playing",
+                "explanation": "To play",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4113,7 +4113,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to moving/transport",
+                "explanation": "To move or transport",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4127,7 +4127,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to being high or above",
+                "explanation": "To make high or above",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4159,7 +4159,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to eating",
+                "explanation": "To eat",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4312,7 +4312,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to worship and deification",
+                "explanation": "To worship or deify",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4344,7 +4344,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to reading or reciting",
+                "explanation": "To read or recite",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4381,7 +4381,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to beautification",
+                "explanation": "To make beautiful",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4525,7 +4525,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to taking residence",
+                "explanation": "To take residence",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4571,7 +4571,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to learning",
+                "explanation": "To learn",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4612,7 +4612,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to hearing",
+                "explanation": "To hear",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4635,7 +4635,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to screaming",
+                "explanation": "To scream",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4658,7 +4658,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to crying",
+                "explanation": "To cry",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4695,7 +4695,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to falling",
+                "explanation": "To fall",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4718,7 +4718,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to crawling",
+                "explanation": "To crawl",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4760,7 +4760,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to running",
+                "explanation": "To run",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4774,7 +4774,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to helping or aiding",
+                "explanation": "To help",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4913,7 +4913,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relates to buying",
+                "explanation": "To buy",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4978,7 +4978,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to increasing",
+                "explanation": "To increase",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4992,7 +4992,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to decreasing",
+                "explanation": "To decrease",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5020,7 +5020,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to carrying",
+                "explanation": "To carry",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5099,7 +5099,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to asking or questioning",
+                "explanation": "To ask or question",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5140,7 +5140,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to calculating",
+                "explanation": "To calculate",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5181,7 +5181,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to apologizing",
+                "explanation": "To apologies",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5213,7 +5213,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to being sincerely apologetic for one's own actions",
+                "explanation": "To make sincerely apologetic for one's own actions",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5227,7 +5227,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to being sympathetic",
+                "explanation": "To sympathize",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5353,7 +5353,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to greeting",
+                "explanation": "To greet",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5460,7 +5460,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to serving ",
+                "explanation": "To serve",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5837,7 +5837,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to relieving",
+                "explanation": "To relieve",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5878,7 +5878,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to taking pride",
+                "explanation": "To take pride",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6020,7 +6020,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to repulsing",
+                "explanation": "To repulse",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6034,7 +6034,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to removing or abolishing",
+                "explanation": "To remove or abolish",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6048,7 +6048,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to grieving",
+                "explanation": "To grief",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6126,7 +6126,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to yearning",
+                "explanation": "To yearn",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6195,7 +6195,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to conflicting or fighting",
+                "explanation": "To conflict or fight",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6241,7 +6241,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to honoring",
+                "explanation": "To honor",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6273,7 +6273,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to reverence or respect",
+                "explanation": "To respect or revere",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6305,7 +6305,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to trusting or faith",
+                "explanation": "To trust or have faith",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6337,7 +6337,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to understanding",
+                "explanation": "To understand",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6374,7 +6374,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to shining",
+                "explanation": "To shine",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6425,7 +6425,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to dancing",
+                "explanation": "To dance",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6653,7 +6653,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to craving or longing for",
+                "explanation": "To crave or long for",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6667,7 +6667,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to ability",
+                "explanation": "To make able",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6797,7 +6797,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "VERB",
-                "explanation": "Relating to hate",
+                "explanation": "To hate",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
