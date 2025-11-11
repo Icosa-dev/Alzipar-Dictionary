@@ -547,6 +547,15 @@ externalDictionary = [
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Projects",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
             }
         ]
     },
@@ -572,6 +581,15 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "To see, watch, or observe",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Sights",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -612,6 +630,15 @@ externalDictionary = [
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Knowledge or wisdom",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
             }
         ]
     },
@@ -623,9 +650,27 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "To want; desire",
-                "example": "Example of this usage (in Imperius)",
+                "example": "",
                 "gloss": "help-less-ness",
-                "exampleTranslation": "Example of this usage (Translation)"
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Desire",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Wanty",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
             }
         ]
     },
@@ -637,6 +682,24 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "To need; require",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Need",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Needy",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -654,6 +717,15 @@ externalDictionary = [
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Plant (or plant-like fungi)",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
             }
         ]
     },
@@ -665,6 +737,24 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "To think",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Thoughts",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Thoughtful",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -693,6 +783,24 @@ externalDictionary = [
                 "badgeText": "",
                 "type": "VERB",
                 "explanation": "To love",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Lover",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "ADJECTIVE",
+                "explanation": "Lovely",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
