@@ -8,7 +8,7 @@ Although not the prefered script for writing the language. Alzapar can also be w
 |     ب      |   /b/       |
 |     پ      |   /p/       |
 |     ت      |   /t/       |
-|     ج      |   /ʤ/       |
+|     ج      |   /ʒ/       |
 |     ح      |   /h/       |
 |     د      |   /d/       |
 |     ر      |   /r/       |

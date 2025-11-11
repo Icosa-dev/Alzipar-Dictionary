@@ -11,7 +11,7 @@ The following is the Latin alphabet for the language along with IPA values for e
 | Dd         |   /d/   |
 | Ee         |   /ε/   |
 | Ff         |   /f/   |
-| Ġġ         |   /ʤ/   |
+| Ġġ         |   /ʒ/   |
 | Gg         |   /g/   |
 | Hh         |   N/A   |
 | Ħħ         |   /h/   |
