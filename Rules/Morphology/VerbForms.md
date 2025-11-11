@@ -33,3 +33,4 @@ Irregular verbs can also take on affixes such as:
 |    Affix    |     Meaning              |
 |-------------|--------------------------|
 |    -atur    |    Someone who does X    |
+|    -ja      |    Noun form             |
