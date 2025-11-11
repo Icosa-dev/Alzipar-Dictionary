@@ -5371,7 +5371,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Salám Alájtu",
+        "word": "Salám Alájtú",
         "uses": [
             {
                 "hasBadge": false,
@@ -5385,7 +5385,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "U Alájtu Salám",
+        "word": "U Alájtú Salám",
         "uses": [
             {
                 "hasBadge": false,
@@ -5594,7 +5594,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fi-diżártu",
+        "word": "Fi-diżártú",
         "uses": [
             {
                 "hasBadge": false,
@@ -5608,7 +5608,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fi-kidámtu",
+        "word": "Fi-kidámtú",
         "uses": [
             {
                 "hasBadge": false,
