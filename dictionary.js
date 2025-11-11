@@ -291,7 +291,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Azú",
+        "word": "Ażú",
         "uses": [
             {
                 "hasBadge": false,
@@ -3951,7 +3951,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "CONJUNCTION",
-                "explanation": "Joins two clauses without adding logic and chaning meaning",
+                "explanation": "Joins two clauses without adding logic and changing meaning",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
