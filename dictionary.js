@@ -441,7 +441,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relates to books",
+                "explanation": "Books/Writings",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -594,7 +594,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relates to language",
+                "explanation": "Languages",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -715,7 +715,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relates to water",
+                "explanation": "Water",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -761,7 +761,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to the face or facade",
+                "explanation": "The face or facade",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -803,7 +803,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to the tongue or dialect",
+                "explanation": "The tongue or dialect",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -817,7 +817,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to lips or to borders",
+                "explanation": "Lips or to borders",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -873,7 +873,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to the neck",
+                "explanation": "The neck",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -887,7 +887,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to the chest or core",
+                "explanation": "Chest or core",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -901,7 +901,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to the stomach or internals",
+                "explanation": "Stomach or internals",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -915,7 +915,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to arms",
+                "explanation": "Arms",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -1288,7 +1288,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relates to fish",
+                "explanation": "Fish",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -1842,7 +1842,7 @@ externalDictionary = [
             {
                 "hasBadge": false,
                 "badgeText": "",
-                "type": "WORD TYPE",
+                "type": "NOUN",
                 "explanation": "Two",
                 "example": "",
                 "gloss": "help-less-ness",
@@ -2034,7 +2034,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relates to peace",
+                "explanation": "Peace",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2383,7 +2383,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relates to gifts",
+                "explanation": "Gifts",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2406,7 +2406,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relates to poetry ",
+                "explanation": "Poetry ",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -2527,7 +2527,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to taste",
+                "explanation": "Taste",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3035,7 +3035,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to blessings",
+                "explanation": "Blessings",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3067,7 +3067,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to evil or wickedness",
+                "explanation": "Evil or wickedness",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3104,7 +3104,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to roads or paths",
+                "explanation": "Roads or paths",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3127,7 +3127,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to sin",
+                "explanation": "Sin",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3303,7 +3303,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to meditation",
+                "explanation": "Meditation",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3382,7 +3382,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to products",
+                "explanation": "Products",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3503,7 +3503,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to plant leaves",
+                "explanation": "Plant leaves",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3582,7 +3582,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to the wind",
+                "explanation": "Wind",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3642,7 +3642,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to judgement",
+                "explanation": "Judgement",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3702,7 +3702,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to destruction",
+                "explanation": "Destruction",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3804,7 +3804,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to sleep",
+                "explanation": "Sleep",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -3882,7 +3882,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to thanks",
+                "explanation": "Thanks",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4099,7 +4099,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to games",
+                "explanation": "Games",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4136,7 +4136,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to the sky or heaven",
+                "explanation": "Sky or heaven(s)",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4168,7 +4168,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to food",
+                "explanation": "Food",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4321,7 +4321,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to (G)od(s)",
+                "explanation": "(G)od(s)",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4353,7 +4353,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to recitation, speeches",
+                "explanation": "Recitations, speeches",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4390,7 +4390,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to camals or beauty",
+                "explanation": "Camals or beauty",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4534,7 +4534,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to home both physically and mentally",
+                "explanation": "Home both physically and mentally",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4580,7 +4580,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to classes, courses, or studies",
+                "explanation": "Classes, courses, or studies",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4621,7 +4621,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to sound",
+                "explanation": "Sound",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4644,7 +4644,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to screams",
+                "explanation": "Screams",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4667,7 +4667,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to cries",
+                "explanation": "Cries",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4704,7 +4704,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to falls",
+                "explanation": "Falls",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4783,7 +4783,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to help or aid",
+                "explanation": "Help or aid",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4806,7 +4806,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to standards",
+                "explanation": "Standards",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4885,7 +4885,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to groceries",
+                "explanation": "Groceries",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -4922,7 +4922,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relates to money",
+                "explanation": "Money",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5029,7 +5029,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to that which is carried; Burden.",
+                "explanation": "That which is carried; Burden.",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5108,7 +5108,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to questions",
+                "explanation": "Questions",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5149,7 +5149,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to calculations",
+                "explanation": "Calculations",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5190,7 +5190,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to apologies",
+                "explanation": "Apologies",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5469,7 +5469,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to services",
+                "explanation": "Services",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5800,7 +5800,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to one's self",
+                "explanation": "One's self",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5814,7 +5814,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to joy and happiness",
+                "explanation": "Joy and happiness",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5846,7 +5846,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to relief",
+                "explanation": "Relief",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5887,7 +5887,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to pride",
+                "explanation": "Pride",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5910,7 +5910,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to hope",
+                "explanation": "Hope",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5933,7 +5933,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to sadness or sorrow",
+                "explanation": "Sadness or sorrow",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5956,7 +5956,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to anger or rage",
+                "explanation": "Anger or rage",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -5979,7 +5979,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to fear",
+                "explanation": "Fear",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6002,7 +6002,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to disgust or repulsion",
+                "explanation": "Disgust or repulsion",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6057,7 +6057,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to grief",
+                "explanation": "Grief",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6080,7 +6080,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to guilt or remorse",
+                "explanation": "Guilt or remorse",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6103,7 +6103,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to jelousy or envy",
+                "explanation": "Jelousy or envy",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6140,7 +6140,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to a state of both happiness and sadness; bittersweet",
+                "explanation": "A state of both happiness and sadness; bittersweet",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6163,7 +6163,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to confusement",
+                "explanation": "Confusement",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6204,7 +6204,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to conflicts, fights or wars",
+                "explanation": "Conflicts, fights or wars",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6227,7 +6227,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to pens and/or things which write",
+                "explanation": "Pens and/or things which write",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6250,7 +6250,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to that which is honored",
+                "explanation": "That which is honored",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6282,7 +6282,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to that which is revered or respected",
+                "explanation": "That which is revered or respected",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6314,7 +6314,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to that which is trusted",
+                "explanation": "That which is trusted",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6397,7 +6397,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to jewels and gems",
+                "explanation": "Jewels and gems",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6434,7 +6434,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to dances",
+                "explanation": "Dances",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -6806,7 +6806,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "NOUN",
-                "explanation": "Relating to hatetred",
+                "explanation": "Hatetred",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
