@@ -5594,7 +5594,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fi-diżártú",
+        "word": "Fi-diżártu",
         "uses": [
             {
                 "hasBadge": false,
@@ -5608,7 +5608,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fi-kidámtú",
+        "word": "Fi-kidámtu",
         "uses": [
             {
                 "hasBadge": false,
