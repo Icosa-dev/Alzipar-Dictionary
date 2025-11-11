@@ -2767,7 +2767,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "B-J-D",
+        "word": "H-B-J-D",
         "uses": [
             {
                 "hasBadge": false,
@@ -2808,7 +2808,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "S-W-D",
+        "word": "H-S-W-D",
         "uses": [
             {
                 "hasBadge": false,
@@ -2840,7 +2840,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "K-D-R",
+        "word": "H-K-D-R",
         "uses": [
             {
                 "hasBadge": false,
@@ -2872,7 +2872,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ħ-M-R",
+        "word": "H-Ħ-M-R",
         "uses": [
             {
                 "hasBadge": false,
@@ -2895,7 +2895,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Z-R-Q",
+        "word": "H-Z-R-Q",
         "uses": [
             {
                 "hasBadge": false,
@@ -2936,7 +2936,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "D-Ħ-B",
+        "word": "H-D-Ħ-B",
         "uses": [
             {
                 "hasBadge": false,
