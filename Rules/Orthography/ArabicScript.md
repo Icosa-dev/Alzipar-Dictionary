@@ -43,7 +43,7 @@ Diacritics are not required and in most cases shouldn't be use.
 
 The ultimate or penultimate vowel sound, which gets elongated, will be written as the vowel's diacritic on the proceding consonant followed by its consonant analog. For example the word for book, *Kitab(un)*, would be written as "كِتَابٌ". The *a* sound being written with both the diacritic and Alif since it is elongated.
 
-Ayn is used much like the Latin script's *Hh* in which it is used as a placeholder for a sounded consonant in a triconsonantal root or for vowel hiatus.
+Ayn is used much like the Latin script's *Hh* in which it is used as a placeholder for a sounded consonant in a triconsonantal root or for vowel hiatus. Note that "used like" does not imply interchangable. *Hh* is much more often omitted from words than Ayn due to the fact that Ayn is used to carry diacritics as well since no one consonant can have multiple vowel diacritics.
 
 Sentences are seperated by full stops and words are seperated by spaces.
 
