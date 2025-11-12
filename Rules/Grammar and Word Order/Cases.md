@@ -2,13 +2,17 @@
 
 Nouns can take 3 case markers: Nominative, accusative, and genitive. The case of a noun relates to it's function in the clause as either the subject or object. The subject is the part of the clause which does the verb. The object is the part of the clause which the verb is being done onto. All clauses will have subjects but not all will have objects. 
 
+In formal speech case markers are required to be pronounced. In casual speech they are almost always omitted.
+
+In writing case markers tend to be omitted including in voiced Arabic texts and Latin texts. They are mainly included in poetic or highly formal texts where exact pronunciation is important or in texts for learners.
+
 ## Nominative Case
 
-A noun is in the nominative case if it is part of the subject of a clause. If a noun is in the nominative case it is suffixed with *ũ* in the Latin script or with the ـٌ diacritic in the Arabic script. Both make the /un/ sound. However in speech the n may be omitted.
+A noun is in the nominative case if it is part of the subject of a clause. If a noun is in the nominative case it is suffixed with *ũ* in the Latin script or with the ـٌ diacritic in the Arabic script. Both make the /un/ sound.
 
 ## Accusative Case
 
-A noun is in the accusative case if it is part of the object of a clause. If a a noun is in the accusative case it is suffixed with *ã* in the Latin script or with the ـً diacritic in the Arabic script. Both make the /an/ sound. However in speech the n may be omitted.
+A noun is in the accusative case if it is part of the object of a clause. If a a noun is in the accusative case it is suffixed with *ã* in the Latin script or with the ـً diacritic in the Arabic script. Both make the /an/ sound.
 
 ## Genitive Case
 
