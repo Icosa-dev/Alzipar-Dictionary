@@ -46,6 +46,6 @@ In informal writting the case markers can be excluded.
 
 If a word using the definite article begins with a sun consonant then the "l" is replaced with that consonant. For example "the water" would be translated as *aṡ-ṡiváz*.
 
-The acute accent can be used to mark which vowel is elongated in a word. However this is not required as vowel elongation is generally very regular. If used, it tends to only be used on polysylabic words and once. The exception is for compound words. For example *Kitabami* would have elongation on both the *a* of *Kitab* and *i* of *mi*. Hence, *Kitábamí*. Acute accent placement can be on any vowel even if that happens to be different from the dictionary as vowel elongation can change depending on dialect. If a dipthong is elongated then the "proper vowel" letter has the acute on it even though the semivowel is elongated.
+The acute accent can be used to mark which vowel is elongated in a word. Acute accent placement can be on any vowel even if that happens to be different from the dictionary as vowel elongation can change depending on dialect. If a dipthong is elongated then the "proper vowel" letter has the acute on it even though the semivowel is elongated.
 
 The tilde diacritic is used on the vowels a, i, and u to add an /n/ sound to them. It is analogous to the nunnation diacritics in the Arabic script. They are only used at the end of a word to mark case.
