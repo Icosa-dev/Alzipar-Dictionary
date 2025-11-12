@@ -51,4 +51,4 @@ Unlike with the Latin orthography the definitive article is always written as "�
 
 Words connected by "-" in Latin are written as one in the Arabic script.
 
-Words that are not formed from triconsonantal roots that end in a vowel should have that vowel long even if it is not pronounced as such.
+Words that are not formed from triconsonantal roots are spelled alphabetically. That is to say that all vowels are written long and as semivowels. For example the word *Pliedi* would be spelled "پْلِيعِيدِي". 
