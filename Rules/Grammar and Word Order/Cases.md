@@ -2,9 +2,7 @@
 
 Nouns can take 3 case markers: Nominative, accusative, and genitive. The case of a noun relates to it's function in the clause as either the subject or object. The subject is the part of the clause which does the verb. The object is the part of the clause which the verb is being done onto. All clauses will have subjects but not all will have objects. 
 
-In formal speech case markers are required to be pronounced. In casual speech they are almost always omitted.
-
-In writing case markers tend to be omitted including in voiced Arabic texts and Latin texts. They are mainly included in poetic or highly formal texts where exact pronunciation is important or in texts for learners.
+The case system is primarily a formality. Assuming a sentence uses the standard structure of VSO the need to specify a word's case is all but non-existent. 
 
 ## Nominative Case
 
