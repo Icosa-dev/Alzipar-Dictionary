@@ -50,3 +50,5 @@ Sentences are seperated by full stops and words are seperated by spaces.
 Unlike with the Latin orthography the definitive article is always written as "اَلْـ" even when the Lam is silent. For example the word /alkitabun/ would be written as "الْكِتَابٌ" and the word /aʃivaʦun/ would be written as "الْشِڤَاصٌ".
 
 Words connected by "-" in Latin are written as one in the Arabic script.
+
+Words that are not formed from triconsonantal roots that end in a vowel should have that vowel long even if it is not pronounced as such.
