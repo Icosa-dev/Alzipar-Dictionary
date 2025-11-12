@@ -361,13 +361,13 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Madá/Máda",
+        "word": "Máda",
         "uses": [
             {
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "PRONOUN",
-                "explanation": "(Madá) What",
+                "explanation": "What",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -376,7 +376,7 @@ externalDictionary = [
                 "hasBadge": false,
                 "badgeText": "",
                 "type": "ADVERB",
-                "explanation": "(Máda) What",
+                "explanation": "What",
                 "example": "",
                 "gloss": "help-less-ness",
                 "exampleTranslation": ""
@@ -961,7 +961,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Qapelí",
+        "word": "Qapéli",
         "uses": [
             {
                 "hasBadge": false,
@@ -1031,7 +1031,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Muní",
+        "word": "Múni",
         "uses": [
             {
                 "hasBadge": false,
@@ -1045,7 +1045,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Jesbá",
+        "word": "Jésba",
         "uses": [
             {
                 "hasBadge": false,
@@ -1115,7 +1115,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Umá",
+        "word": "Úma",
         "uses": [
             {
                 "hasBadge": false,
@@ -1129,7 +1129,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Abá",
+        "word": "Ába",
         "uses": [
             {
                 "hasBadge": false,
@@ -1157,7 +1157,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Umá Ażím",
+        "word": "Úma Ażím",
         "uses": [
             {
                 "hasBadge": false,
@@ -1171,7 +1171,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Abá Ażím",
+        "word": "Ába Ażím",
         "uses": [
             {
                 "hasBadge": false,
@@ -1213,7 +1213,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ziú",
+        "word": "Zíu",
         "uses": [
             {
                 "hasBadge": false,
@@ -1227,7 +1227,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ziá",
+        "word": "Zía",
         "uses": [
             {
                 "hasBadge": false,
@@ -1255,7 +1255,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kuġiné",
+        "word": "Kuġíne",
         "uses": [
             {
                 "hasBadge": false,
@@ -1297,7 +1297,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Abén",
+        "word": "Áben",
         "uses": [
             {
                 "hasBadge": false,
@@ -1656,7 +1656,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ħanfasá",
+        "word": "Ħanfása",
         "uses": [
             {
                 "hasBadge": false,
@@ -1763,7 +1763,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Nemusá",
+        "word": "Nemúsa",
         "uses": [
             {
                 "hasBadge": false,
@@ -1777,7 +1777,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Qamlá",
+        "word": "Qámla",
         "uses": [
             {
                 "hasBadge": false,
@@ -1819,7 +1819,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Rakná",
+        "word": "Rákna",
         "uses": [
             {
                 "hasBadge": false,
@@ -1861,7 +1861,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ġewiná",
+        "word": "Ġewína",
         "uses": [
             {
                 "hasBadge": false,
@@ -1903,7 +1903,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Numrá",
+        "word": "Númra",
         "uses": [
             {
                 "hasBadge": false,
@@ -1931,7 +1931,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Wadá",
+        "word": "Wáda",
         "uses": [
             {
                 "hasBadge": false,
@@ -1959,7 +1959,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Tiráh",
+        "word": "Tírah",
         "uses": [
             {
                 "hasBadge": false,
@@ -1973,7 +1973,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Viráh",
+        "word": "Vírah",
         "uses": [
             {
                 "hasBadge": false,
@@ -1987,7 +1987,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fitár",
+        "word": "Fítar",
         "uses": [
             {
                 "hasBadge": false,
@@ -2015,7 +2015,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Żiván",
+        "word": "Żívan",
         "uses": [
             {
                 "hasBadge": false,
@@ -2043,7 +2043,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Nináh",
+        "word": "Nínah",
         "uses": [
             {
                 "hasBadge": false,
@@ -2057,7 +2057,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Dekár",
+        "word": "Dékar",
         "uses": [
             {
                 "hasBadge": false,
@@ -2071,7 +2071,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ħundár",
+        "word": "Ħúndar",
         "uses": [
             {
                 "hasBadge": false,
@@ -2085,7 +2085,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kilár",
+        "word": "Kílar",
         "uses": [
             {
                 "hasBadge": false,
@@ -2099,7 +2099,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Milár",
+        "word": "Mílar",
         "uses": [
             {
                 "hasBadge": false,
@@ -2113,7 +2113,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Bilár",
+        "word": "Bílar",
         "uses": [
             {
                 "hasBadge": false,
@@ -2550,7 +2550,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Luná",
+        "word": "Lúna",
         "uses": [
             {
                 "hasBadge": false,
@@ -2564,7 +2564,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Stelá",
+        "word": "Stéla",
         "uses": [
             {
                 "hasBadge": false,
@@ -3298,7 +3298,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Persuná",
+        "word": "Persúna",
         "uses": [
             {
                 "hasBadge": false,
@@ -3340,7 +3340,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Komjunitá",
+        "word": "Komjúnita",
         "uses": [
             {
                 "hasBadge": false,
@@ -3447,7 +3447,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Lejlá",
+        "word": "Léjla",
         "uses": [
             {
                 "hasBadge": false,
@@ -3512,7 +3512,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Staġún",
+        "word": "Stáġun",
         "uses": [
             {
                 "hasBadge": false,
@@ -3526,7 +3526,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Verná",
+        "word": "Vérna",
         "uses": [
             {
                 "hasBadge": false,
@@ -3554,7 +3554,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Awtún",
+        "word": "Áwtun",
         "uses": [
             {
                 "hasBadge": false,
@@ -3841,7 +3841,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fetit",
+        "word": "Fetít",
         "uses": [
             {
                 "hasBadge": false,
@@ -4469,7 +4469,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kará",
+        "word": "Kára",
         "uses": [
             {
                 "hasBadge": false,
@@ -5001,7 +5001,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Datí",
+        "word": "Dáti",
         "uses": [
             {
                 "hasBadge": false,
@@ -5066,7 +5066,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ħażná",
+        "word": "Ħáżna",
         "uses": [
             {
                 "hasBadge": false,
@@ -5734,7 +5734,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Iríta",
+        "word": "Iritá",
         "uses": [
             {
                 "hasBadge": false,
@@ -5748,7 +5748,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Irítat",
+        "word": "Iritát",
         "uses": [
             {
                 "hasBadge": false,
@@ -5762,7 +5762,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Iżolája",
+        "word": "Iżólaja",
         "uses": [
             {
                 "hasBadge": false,
@@ -6606,7 +6606,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Qasbá",
+        "word": "Qásba",
         "uses": [
             {
                 "hasBadge": false,
@@ -6690,7 +6690,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ritmú",
+        "word": "Rítmu",
         "uses": [
             {
                 "hasBadge": false,
@@ -6718,7 +6718,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Nimfá",
+        "word": "Nímfa",
         "uses": [
             {
                 "hasBadge": false,
@@ -6820,7 +6820,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Melá",
+        "word": "Méla",
         "uses": [
             {
                 "hasBadge": false,
@@ -6834,7 +6834,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Palá",
+        "word": "Pála",
         "uses": [
             {
                 "hasBadge": false,
@@ -6885,7 +6885,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Terṡí",
+        "word": "Térṡi",
         "uses": [
             {
                 "hasBadge": false,
@@ -6945,7 +6945,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Aqalú",
+        "word": "Aqálu",
         "uses": [
             {
                 "hasBadge": false,
@@ -6987,7 +6987,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Frawlí",
+        "word": "Fráwli",
         "uses": [
             {
                 "hasBadge": false,
@@ -7001,7 +7001,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Uvá",
+        "word": "Úva",
         "uses": [
             {
                 "hasBadge": false,
@@ -7015,7 +7015,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Vinó",
+        "word": "Víno",
         "uses": [
             {
                 "hasBadge": false,
@@ -7061,7 +7061,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Birá",
+        "word": "Bíra",
         "uses": [
             {
                 "hasBadge": false,
@@ -7089,7 +7089,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ananás",
+        "word": "Anánas",
         "uses": [
             {
                 "hasBadge": false,
@@ -7159,7 +7159,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Kiwí",
+        "word": "Kíwi",
         "uses": [
             {
                 "hasBadge": false,
@@ -7173,7 +7173,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Mangó",
+        "word": "Mángo",
         "uses": [
             {
                 "hasBadge": false,
@@ -7201,7 +7201,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Pompelmó",
+        "word": "Pompélmo",
         "uses": [
             {
                 "hasBadge": false,
@@ -7215,7 +7215,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Peská",
+        "word": "Péska",
         "uses": [
             {
                 "hasBadge": false,
@@ -7257,7 +7257,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ṡerí",
+        "word": "Ṡéri",
         "uses": [
             {
                 "hasBadge": false,
@@ -7313,7 +7313,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Prunjá",
+        "word": "Prúnjá",
         "uses": [
             {
                 "hasBadge": false,
@@ -7383,7 +7383,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Karót",
+        "word": "Károt",
         "uses": [
             {
                 "hasBadge": false,
