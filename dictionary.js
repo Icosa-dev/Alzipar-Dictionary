@@ -863,7 +863,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "W-J-H",
+        "word": "W-Ġ-H",
         "uses": [
             {
                 "hasBadge": false,
