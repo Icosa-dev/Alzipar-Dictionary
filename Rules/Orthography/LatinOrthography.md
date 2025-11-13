@@ -41,4 +41,3 @@ Long vowels are marked by the acute accent.
 The definite article "al" is connected to the word it makes definite by a hyphen. For example "the book" would be "al-kitáb".
 
 If a word using the definite article begins with a sun consonant then the "l" is replaced with that consonant. For example "the water" would be "aš-šiváts".
-
