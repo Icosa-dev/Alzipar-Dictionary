@@ -14,6 +14,6 @@ Verbs formed from a triconsonantal root (1-2-3) which general meaning (X) may ta
 |   (V6)   |          I12a3a            |      Ya12á3a      |   To become X                   |
 |   (V7)   |          Ista12a3a         |      Yasta12i3u   |   To ask (someone) to do X      |
 
-The first form (V1) can also act as an infinitive form or verbal noun form. 
+The first form (V1) can also act as an infinitive form or verbal noun form. Adverbs derived from the root take the form "1a23í".
 
 Adding the "sa" or "ma" particle before a past tense verb puts it in the future or perfect tense respectivly.
