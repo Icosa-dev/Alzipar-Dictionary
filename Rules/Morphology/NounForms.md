@@ -12,4 +12,4 @@ Verbs formed from a triconsonantal root (1-2-3) which general meaning (X) may ta
 |    (N6)  |  Ma12a3       |   Place where (x) is done              |
 |    (N7)  |  Ma1a2ī3      |   Plural of locational form            |
 
-The N4 form is also used as the adjectival form. 
+The -iy suffix is used to create the adjectival form.
