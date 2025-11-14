@@ -5,7 +5,7 @@ The following is the Latin alphabet for the language along with IPA values for e
 
 |   Letter   |   IPA     |
 |------------|-----------|
-| '          |   /ʔ/     |
+| ʿ          |   /ʔ/     |
 | Aa         |   [a ~ ɛ] |
 | Bb         |   /b/     |
 | Dd         |   /d/     |
@@ -36,7 +36,7 @@ Words are spelled as they sound.
 
 The first letter of a sentence is capitalized. Proper nouns are also capitalized and proper nouns of great significance may be written in all caps. Sentences are seperated by full stops and words are seperated by spaces. The word before a conjunction will have a comma.
 
-Long vowels are represented by a macron above the vowel or by writing two of the same vowel. For example: "kitāb/kitaab".
+Long vowels are represented by a macron above the vowel or by writing two of the same vowel. For example: "kitāb/kitaab". If the letter "ʿ" cannot be written "'" can be used as a substitute. Same for "Sh" instead of "Š".
 
 The definite article "al" is connected to the word it makes definite by a hyphen. For example "the book" would be "al-kitāb".
 
