@@ -333,7 +333,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "La",
+        "word": "Lā",
         "uses": [
             {
                 "hasBadge": false,
@@ -347,7 +347,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Ħawn",
+        "word": "Hunā",
         "uses": [
             {
                 "hasBadge": false,
@@ -361,7 +361,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Isá",
+        "word": "Isā",
         "uses": [
             {
                 "hasBadge": false,
@@ -375,7 +375,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Máda",
+        "word": "Mādā",
         "uses": [
             {
                 "hasBadge": false,
@@ -398,7 +398,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Máta",
+        "word": "Matā",
         "uses": [
             {
                 "hasBadge": false,
@@ -412,7 +412,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fejn",
+        "word": "ʿAyn",
         "uses": [
             {
                 "hasBadge": false,
@@ -426,7 +426,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Limáda",
+        "word": "Limādā",
         "uses": [
             {
                 "hasBadge": false,
@@ -440,7 +440,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Tu",
+        "word": "Tū",
         "uses": [
             {
                 "hasBadge": false,
@@ -468,7 +468,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Fuk",
+        "word": "Fūk",
         "uses": [
             {
                 "hasBadge": false,
@@ -482,7 +482,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Qabil",
+        "word": "Qabl",
         "uses": [
             {
                 "hasBadge": false,
@@ -496,7 +496,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Sab",
+        "word": "Sūb",
         "uses": [
             {
                 "hasBadge": false,
@@ -565,4 +565,60 @@ externalDictionary = [
             }
         ]
     },
+    {
+        "word": "Parzī",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "CONJUNCTION",
+                "explanation": "Hence; therefore",
+                "example": "",
+                "gloss": "",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Anān",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "CONJUNCTION",
+                "explanation": "That",
+                "example": "",
+                "gloss": "",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Wakt",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "CONJUNCTION",
+                "explanation": "While",
+                "example": "",
+                "gloss": "",
+                "exampleTranslation": ""
+            }
+        ]
+    },
+    {
+        "word": "Liʿāma",
+        "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "CONJUNCTION",
+                "explanation": "Which",
+                "example": "",
+                "gloss": "",
+                "exampleTranslation": ""
+            }
+        ]
+    }
 ]
