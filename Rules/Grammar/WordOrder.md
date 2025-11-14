@@ -1,8 +1,8 @@
 # Alzapar Grammar: Word Order
 
-The basic sentence structure is that of Verb-Subject-Object (VSO). English is an SVO language and as such would order the sentence "Sam ate apples" as such. However Alzapar would order the words as "Ate Sam apples" instead. Or more literally "Ākala Sām mulā". 
+The basic sentence structure is that of Verb-Subject-Object (VSO). English is an SVO language and as such would order the sentence "Sam ate apples" as such. However Alzapar would order the words as "Ate Sam apples" instead. Or more literally "Ākala Sām milā". If the subject of a sentence is a pronoun then the sentence will be in the structure of Subject-Verb-Object. For example "I bought apples" would be "'Ana šātara milā".
 
-Adverbs and adverbial phrases are put before the verb which they modify. For example the sentence "I gave (to) the boy a ball one day" would be translated as "Yūm karīn lī al-abn lāta'a mī al-bilā" (literally: "Day some to the-boy gave me the-ball).
+Adverbs and adverbial phrases are put before the verb which they modify. For example the sentence "I gave (to) the boy a ball one day" would be translated as "Yūm karīn lī al-abn 'anā lāta'a al-bilā" (literally: "Day some to the-boy me gave the-ball).
 
 The internal order of descriptors generally should follow the format of:
 1. Quantity
