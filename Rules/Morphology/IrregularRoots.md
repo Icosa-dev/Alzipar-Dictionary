@@ -11,3 +11,7 @@ However in words that follow a -12V3- form the 4th consonant is appended with th
 ## Diconsonantal:
 
 To derive a root from a word with only 2 consonants you take the core 2 consonants add add "'" to the beginning or end depending on which has a vowel (and the end always if neither side of the word has a vowel). Given a word with two consonants if it takes the form V1V2(V) the new triconsonanatal root form will be '-1-2. If it takes the form 1V2(V) the new triconsonantal root form will be 1-2-'.
+
+## Note
+
+All words must contain at least two consonants.
