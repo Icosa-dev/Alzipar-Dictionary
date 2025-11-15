@@ -7,9 +7,9 @@ Verbs formed from a triconsonantal root (1-2-3) which general meaning (X) may ta
 |    (N0)  |      N/A      |   Irregular non-rooted form            |
 |    (N1)  |  1i2ā3/1a2a3  |   Singular noun form                   |
 |    (N2)  |  1u2a3        |   Plural noun form                     |
-|    (N4)  |  1a2ī3        |   Someone who does (X)                 |
-|    (N5)  |  1a2ī3un      |   Plural of agent form                 |
+|    (N4)  |  1a2i3        |   Someone who does (X)                 |
+|    (N5)  |  1a2i3un      |   Plural of agent form                 |
 |    (N6)  |  Ma12a3       |   Place where (x) is done              |
 |    (N7)  |  Ma1a2ī3      |   Plural of locational form            |
 
-The -iy suffix is used to create the adjectival form.
+The form 1a2ī3 or suffix -iy is used to make the adjectival form.
