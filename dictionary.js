@@ -1004,7 +1004,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Š-V-Z",
+        "word": "Š-V-TS",
         "uses": [
             {
                 "hasBadge": false,
@@ -3465,7 +3465,7 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Layla",
+        "word": "Laylā",
         "uses": [
             {
                 "hasBadge": false,
@@ -3909,8 +3909,26 @@ externalDictionary = [
         ]
     },
     {
-        "word": "Iżolát",
+        "word": "L-V-D",
         "uses": [
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "VERB",
+                "explanation": "To isolate",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
+            {
+                "hasBadge": false,
+                "badgeText": "",
+                "type": "NOUN",
+                "explanation": "Isolation",
+                "example": "",
+                "gloss": "help-less-ness",
+                "exampleTranslation": ""
+            },
             {
                 "hasBadge": false,
                 "badgeText": "",
